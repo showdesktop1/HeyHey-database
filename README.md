@@ -1,8 +1,8 @@
 # HeyHey-database
 
 ## Changelog
-Legacy\n
-**Newest**
+###Legacy
+###**Newest**
 | Date       | Version              | Description                                                           |
 |------------|----------------------|-----------------------------------------------------------------------|
 | 2024.07.08 | Core 1.0             | First Release; Sets 1-4                                               |
