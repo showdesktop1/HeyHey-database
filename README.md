@@ -2,7 +2,7 @@
 
 ## Changelog
 
-| Date       | Version       | Description                                                           |
+| Date       | Version **(Newest)**      | Description                                                           |
 |------------|---------------|-----------------------------------------------------------------------|
 | 2024.07.08 | Core 1.0      | First Release; Sets 1-4                                               |
 | 2024.07.10 | **Core 1.1**      | Complete Re-do to fix comma errors, and retain some original API data |
