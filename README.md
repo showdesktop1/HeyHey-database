@@ -1,7 +1,7 @@
 # HeyHey-database
 
 ## Changelog
-Legacy
+Legacy|
 **Newest**
 | Date       | Version              | Description                                                           |
 |------------|----------------------|-----------------------------------------------------------------------|
