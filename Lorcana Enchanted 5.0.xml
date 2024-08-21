@@ -1,0 +1,1923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+<!--
+
+Card Images from lorcanaplayer.com, card data inputted by [Kage | crusadercards@gmail.com]
+
+*Known errors: 
+	All Locations currently in landscape. Need to replace image links.
+
+-->
+<sets>
+<set>
+	<name>TFC</name>
+	<longname>The First Chapter</longname>
+	<settype>Lorcana Core</settype>
+	<releasedate>2023-08-18</releasedate>
+</set>
+<set>
+	<name>ROF</name>
+	<longname>Rise of The Floodborn</longname>
+	<settype>Lorcana Core</settype>
+	<releasedate>2023-11-17</releasedate>
+</set>
+<set>
+	<name>INK</name>
+	<longname>Into the Inklands</longname>
+	<settype>Lorcana Core</settype>
+	<releasedate>2024-02-23</releasedate>
+</set>
+<set>
+	<name>URS</name>
+	<longname>Ursula's Return</longname>
+	<settype>Lorcana Core</settype>
+	<releasedate>2024-05-17</releasedate>
+</set>
+<set>
+	<name>SSK</name>
+	<longname>Shimmering Skies</longname>
+	<settype>Lorcana Core</settype>
+	<releasedate>2024-08-09</releasedate>
+</set>
+</sets>
+<cards>
+<!-- TFC -->
+<card>
+	<name>Hades - King of Olympus (Enchanted)</name>
+	<text>Shift 6 (You may pay 6⬡ to play this on top of one of your characters named Hades.) 
+Sinister Plot: This character gets +1◆ for each other Villain character you have in play.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Villain • King • Deity</type>
+		<colors>Amber</colors>
+		<Inkable>No</Inkable>
+		<manacost>8</manacost>
+		<Abilities>Shift</Abilities>
+		<Strength>6</Strength>
+		<pt>6/7</pt>
+		<Willpower>7</Willpower>
+		<Lore>1</Lore>
+		<Artist>Juan Diego Leon</Artist>
+		<Franchise>Hades</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/08/Hades-%E2%80%93-King-of-Olympus-%E2%80%93-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="TFC-205"
+	>TFC</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Stitch - Carefree Surfer (Enchanted)</name>
+	<text>Ohana: When you play this character, if you have 2 or more other characters in play, you may draw 2 cards.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Hero • Alien</type>
+		<colors>Amber</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>7</manacost>
+		<Strength>4</Strength>
+		<pt>4/8</pt>
+		<Willpower>8</Willpower>
+		<Lore>2</Lore>
+		<Artist>Milica Celikovic</Artist>
+		<Franchise>Lilo &amp; Stitch</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/08/Stitch-Carefree-Surfer-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="TFC-206"
+	>TFC</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Elsa - Spirit of Winter (Enchanted)</name>
+	<text>Shift 6 (You may pay 6⬡ to play this on top of one of your characters named Elsa.) 
+Deep Freeze: When you play this character, exert up to 2 chosen characters. They can't ready at the start of their next turn.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Hero • Queen • Sorcerer</type>
+		<colors>Amethyst</colors>
+		<Inkable>No</Inkable>
+		<manacost>8</manacost>
+		<Abilities>Shift</Abilities>
+		<Strength>4</Strength>
+		<pt>4/6</pt>
+		<Willpower>6</Willpower>
+		<Lore>3</Lore>
+		<Artist>Matthew Robert Davies</Artist>
+		<Franchise>Frozen</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/08/Elsa-Spirit-of-Winter-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="TFC-207"
+	>TFC</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Mickey Mouse - Wayward Sorcerer (Enchanted)</name>
+	<text>Animate Broom - You pay 1⬡ less to play Broom characters.
+Ceaseless Worker: Whenever one of your Broom characters is banished in a challenge, you may return that card to your hand.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Sorcerer</type>
+		<colors>Amethyst</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Strength>3</Strength>
+		<pt>3/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>2</Lore>
+		<Artist>Cam Kendell</Artist>
+		<Franchise>Fantasia</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/08/Mickey-Mouse-Wayward-Sorcerer-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="TFC-208"
+	>TFC</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Genie - On the Job (Enchanted)</name>
+	<text>Evasive (Only characters with Evasive can challenge this character.) 
+Disappear: When you play this character, you may return chosen character to their player's hand.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Ally</type>
+		<colors>Emerald</colors>
+		<Inkable>No</Inkable>
+		<manacost>6</manacost>
+		<Abilities>Evasive</Abilities>
+		<Strength>3</Strength>
+		<pt>3/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>2</Lore>
+		<Artist>Cristian Romero</Artist>
+		<Franchise>Aladdin</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/08/Genie-On-the-Job-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="TFC-209"
+	>TFC</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Mickey Mouse - Artful Rogue (Enchanted)</name>
+	<text>Shift 5 (You may pay 5⬡ to play this on top of one of your characters named Mickey Mouse.) 
+Misdirection: Whenever you play an action, chosen opposing character can't quest during their next turn.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Hero</type>
+		<colors>Emerald</colors>
+		<Inkable>No</Inkable>
+		<manacost>7</manacost>
+		<Abilities>Shift</Abilities>
+		<Strength>6</Strength>
+		<pt>6/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>2</Lore>
+		<Artist>Kendall Hale</Artist>
+		<Franchise>Mickey Mouse &amp; Friends</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/08/Mickey-Mouse-Artful-Rogue-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="TFC-210"
+	>TFC</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Aladdin - Heroic Outlaw (Enchanted)</name>
+	<text>Shift 5 (You may pay 5⬡ to play this on top of one of your characters named Aladdin.)
+Daring Exploit: During your turn, whenever this character banishes another character in a challenge, you gain 2 lore and each opponent loses 2 lore.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Hero</type>
+		<colors>Ruby</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>7</manacost>
+		<Abilities>Shift</Abilities>
+		<Strength>5</Strength>
+		<pt>5/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>2</Lore>
+		<Artist>Massimiliano Narciso</Artist>
+		<Franchise>Aladdin</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/08/Aladdin-Heroic-Outlaw-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="TFC-211"
+	>TFC</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Maui - Hero to All (Enchanted)</name>
+	<text>Rush (This character can challenge the turn they're played.) 
+Reckless (This character can't quest and must challenge each turn if able.)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero • Deity</type>
+		<colors>Ruby</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>5</manacost>
+		<Abilities>Rush • Reckless</Abilities>
+		<Strength>6</Strength>
+		<pt>6/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>0</Lore>
+		<Artist>Pirel / Stefano Zanchi</Artist>
+		<Franchise>Moana</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/08/Maui-Hero-to-All-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="TFC-212"
+	>TFC</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Aurora - Dreaming Guardian (Enchanted)</name>
+	<text>Shift 3 (You may pay 3⬡ to play this on top of one of your characters named Aurora.)
+Protective Embrace: Your other characters gain Ward. (Opponents can't choose them except to challenge.)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Hero • Princess</type>
+		<colors>Sapphire</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>5</manacost>
+		<Abilities>Shift • Ward</Abilities>
+		<Strength>3</Strength>
+		<pt>3/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>2</Lore>
+		<Artist>Clio Wolfensberger</Artist>
+		<Franchise>Sleeping Beauty</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/08/Aurora-Dreaming-Guardian-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="TFC-213"
+	>TFC</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Belle - Strange but Special (Enchanted)</name>
+	<text>Read a Book: During your turn, you may put an additional card from your hand into your inkwell facedown.
+My Favorite Part!: While you have 10 or more cards in your inkwell, this character gets +4◆.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero • Princess</type>
+		<colors>Sapphire</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Strength>2</Strength>
+		<pt>2/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>1</Lore>
+		<Artist>Valerio Buonfantino</Artist>
+		<Franchise>Beauty and the Beast</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/08/Belle-Strange-but-Special-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="TFC-214"
+	>TFC</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Simba - Returned King (Enchanted)</name>
+	<text>Challenger +4 (While challenging, this character gets +4※.)
+Pounce: During your turn, this character gains Evasive. (They can challenge characters with Evasive.)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero • King</type>
+		<colors>Steel</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>7</manacost>
+		<Abilities>Challenger • Evasive</Abilities>
+		<Strength>4</Strength>
+		<pt>4/6</pt>
+		<Willpower>6</Willpower>
+		<Lore>2</Lore>
+		<Artist>Hedvig Häggman-Sund</Artist>
+		<Franchise>The Lion King</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/08/Simba-Returned-King-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="TFC-215"
+	>TFC</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Tinker Bell - Giant Fairy (Enchanted)</name>
+	<text>Shift 4 (You may pay 4⬡ to play this on top of one of your characters named Tinker Bell.) 
+Rock the Boat: When you play this character, deal 1 damage to each opposing character.
+Puny Pirate!: During your turn, whenever this character banishes another character in a challenge, you may deal 2 damage to chosen opposing character.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Ally • Fairy</type>
+		<colors>Steel</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>6</manacost>
+		<Abilities>Shift</Abilities>
+		<Strength>4</Strength>
+		<pt>4/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>2</Lore>
+		<Artist>Cookie</Artist>
+		<Franchise>Peter Pan</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/08/Tinker-Bell-Giant-Fairy-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="TFC-216"
+	>TFC</set>
+	<tablerow>2</tablerow>
+</card>
+<!-- ROF -->
+<card>
+	<name>Cinderella - Ballroom Sensation (Enchanted)</name>
+	<text>Singer 3 (This character counts as cost 3 to sing songs.)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero • Princess</type>
+		<colors>Amber</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>1</manacost>
+		<Abilities>Singer</Abilities>
+		<Strength>1</Strength>
+		<pt>1/2</pt>
+		<Willpower>2</Willpower>
+		<Lore>1</Lore>
+		<Artist>Casey Robin</Artist>
+		<Franchise>Cinderella</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/12/Cinderella-Ballroom-Sensation-Enchanted.jpg"
+		rarity="Enchanted"
+		uuid="ROF-205"
+	>ROF</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Snow White - Well Wisher (Enchanted)</name>
+	<text>Shift 4 (You may pay 4⬡ to play this on top of one of your characters named Snow White.)
+Wishes Come True: Whenever this character quests, you may return a character card from your discard to your hand.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Hero • Princess</type>
+		<colors>Amber</colors>
+		<Inkable>No</Inkable>
+		<manacost>6</manacost>
+		<Abilities>Shift</Abilities>
+		<Strength>3</Strength>
+		<pt>3/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>2</Lore>
+		<Artist>Javi Salas</Artist>
+		<Franchise>Snow White and the Seven Dwarfs</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/12/Snow-White-Well-Wisher-Enchanted.jpg"
+		rarity="Enchanted"
+		uuid="ROF-206"
+	>ROF</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Arthur - Wizard's Apprentice (Enchanted)</name>
+	<text>Student: Whenever this character quests, you may return another chosen character of yours to your hand to gain 2 lore.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Hero • Sorcerer</type>
+		<colors>Amethyst</colors>
+		<Inkable>No</Inkable>
+		<manacost>3</manacost>
+		<Strength>1</Strength>
+		<pt>1/3</pt>
+		<Willpower>3</Willpower>
+		<Lore>1</Lore>
+		<Artist>Jake Parker</Artist>
+		<Franchise>The Sword in the Stone</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/12/Arthur-Wizards-Apprentice-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="ROF-207"
+	>ROF</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Madam Mim - Purple Dragon (Enchanted)</name>
+	<text>Evasive (Only characters with Evasive can challenge this character.)
+I Win, I Win!: When you play this character, banish her or return another 2 chosen characters of yours to your hand.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Villain • Sorcerer • Dragon</type>
+		<colors>Amethyst</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>7</manacost>
+		<Abilities>Evasive</Abilities>
+		<Strength>5</Strength>
+		<pt>5/7</pt>
+		<Willpower>7</Willpower>
+		<Lore>4</Lore>
+		<Artist>Ally Zermeno</Artist>
+		<Franchise>The Sword in the Stone</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/12/Madam-Mim-Purple-Dragon-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="ROF-208"
+	>ROF</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Pete - Bad Guy (Enchanted)</name>
+	<text>Ward (Opponents can't choose this character except to challenge.)
+Take That!: Whenever you play an action, this character gets +2※ this turn.
+Who's Next?: While this character has 7※ or more, he gets +2◆.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Ally</type>
+		<colors>Emerald</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>5</manacost>
+		<Abilities>Ward</Abilities>
+		<Strength>3</Strength>
+		<pt>3/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>2</Lore>
+		<Artist>Hedvig Häggman-Sund</Artist>
+		<Franchise>Mickey Mouse &amp; Friends</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/12/Pete-Bad-Guy-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="ROF-209"
+	>ROF</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Beast - Relentless (Enchanted)</name>
+	<text>Second Wind: Whenever an opposing character is damaged, you may ready this character.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero • Prince</type>
+		<colors>Emerald</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>6</manacost>
+		<Strength>4</Strength>
+		<pt>4/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>2</Lore>
+		<Artist>Eri Welli</Artist>
+		<Franchise>Beauty and the Beast</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/12/Beast-Relentless-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="ROF-210"
+	>ROF</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Lady Tremaine - Imperious Queen (Enchanted)</name>
+	<text>Shift 4 (You may pay 4⬡ to play this on top of one of your characters named Lady Tremaine.)
+Power To Rule At Last - When you play this character, each opponent chooses and banishes one of their characters.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Villain • Queen</type>
+		<colors>Ruby</colors>
+		<Inkable>No</Inkable>
+		<manacost>6</manacost>
+		<Abilities>Shift</Abilities>
+		<Strength>3</Strength>
+		<pt>3/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>2</Lore>
+		<Artist>Arianna Rea</Artist>
+		<Franchise>Cinderella</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/12/Lady-Tremaine-Imperious-Queen-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="ROF-211"
+	>ROF</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Shere Khan - Menacing Predator (Enchanted)</name>
+	<text>Don't Insult My Intelligence: Whenever one of your characters challenges another character, gain 1 lore.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Villain</type>
+		<colors>Ruby</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>3</manacost>
+		<Strength>3</Strength>
+		<pt>3/3</pt>
+		<Willpower>3</Willpower>
+		<Lore>1</Lore>
+		<Artist>Rob Di Salvo</Artist>
+		<Franchise>The Jungle Book</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/12/Shere-Khan-Menacing-Predator-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="ROF-212"
+	>ROF</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Alice - Growing Girl (Enchanted)</name>
+	<text>Good Advice - Your other characters gain Support. (Whenever they quest, you may add their ※ to another chosen character's ※ this turn.)
+What Did I Do? - While this character has 10※ or more, she gets +4◆.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Hero</type>
+		<colors>Sapphire</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>3</manacost>
+		<Abilities>Support</Abilities>
+		<Strength>1</Strength>
+		<pt>1/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>1</Lore>
+		<Artist>Alice Pisoni</Artist>
+		<Franchise>Alice in Wonderland</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/12/Alice-Growing-Girl-Enchanted-Lorcana-Player-1.jpg"
+		rarity="Enchanted"
+		uuid="ROF-213"
+	>ROF</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Sisu - Divine Water Dragon (Enchanted)</name>
+	<text>I Trust You: Whenever this character quests, look at the top 2 cards of your deck. You may put one into your hand. Put the rest on the bottom of your deck in any order.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero • Deity • Dragon</type>
+		<colors>Sapphire</colors>
+		<Inkable>No</Inkable>
+		<manacost>4</manacost>
+		<Strength>2</Strength>
+		<pt>2/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>2</Lore>
+		<Artist>Grace Tran</Artist>
+		<Franchise>Raya and the Last Dragon</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/12/Sisu-Divine-Water-Dragon-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="ROF-214"
+	>ROF</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Hercules - Divine Hero (Enchanted)</name>
+	<text>Shift 4 (You may pay 4⬡ to play this on top of one of your characters named Hercules.)\
+Resist +2 (Damage dealth to this character is reduced by 2.)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Hero • Prince • Deity</type>
+		<colors>Steel</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>6</manacost>
+		<Abilities>Shift • Resist</Abilities>
+		<Strength>6</Strength>
+		<pt>6/3</pt>
+		<Willpower>3</Willpower>
+		<Lore>2</Lore>
+		<Artist>Grace Tran</Artist>
+		<Franchise>Hercules</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/12/Hercules-Divine-Hero-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="ROF-215"
+	>ROF</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Namaari - Morning Mist (Enchanted)</name>
+	<text>Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)\
+Blades: This character can challenge ready characters.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Villain • Princess</type>
+		<colors>Steel</colors>
+		<Inkable>No</Inkable>
+		<manacost>4</manacost>
+		<Abilities>Bodyguard</Abilities>
+		<Strength>2</Strength>
+		<pt>2/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>1</Lore>
+		<Artist>Jenna Gray</Artist>
+		<Franchise>Raya and the Last Dragon</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/12/Namaari-Morning-Mist-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="ROF-216"
+	>ROF</set>
+	<tablerow>2</tablerow>
+</card>
+<!-- INK -->
+<card>
+	<name>Chernabog - Evildoer (Enchanted)</name>
+	<text>The Power of Evil: For each character card in your discard, you pay 1⬡ less to play this character.
+Summon the Spirits: When you play this character, shuffle all character cards from your discard into your deck.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Villain</type>
+		<colors>Amber</colors>
+		<Inkable>No</Inkable>
+		<manacost>10</manacost>
+		<Strength>9</Strength>
+		<pt>9/9</pt>
+		<Willpower>9</Willpower>
+		<Lore>3</Lore>
+		<Artist>Thomas Brissot</Artist>
+		<Franchise>Fantasia</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/02/Chernabog-Evildoer-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="INK-205"
+	>INK</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Kida - Protector of Atlantis (Enchanted)</name>
+	<text>Shift 3 (You may pay 3⬡ to play this on top of one of your characters named Kida.)
+Perhaps We Can Save Our Future: When you play this character, all characters get -3※ until the start of your next turn.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Hero • Princess</type>
+		<colors>Amber</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>5</manacost>
+		<Abilities>Shift</Abilities>
+		<Strength>3</Strength>
+		<pt>3/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>2</Lore>
+		<Artist>Adam Fenton</Artist>
+		<Franchise>Atlantis: The Lost Empire</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/02/Kida-Protector-of-Atlantis-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="INK-206"
+	>INK</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Pride Lands - Pride Rock (Enchanted)</name>
+	<text>We Are All Connected: Characters get +2⛨ while here.
+Lion Home: If you have a Prince or King character here, you pay 1⬡ less to play characters.</text>
+	<prop>
+		<maintype>Location</maintype>
+		<type>Location</type>
+		<colors>Amber</colors>
+		<Inkable>No</Inkable>
+		<manacost>2</manacost>
+		<Move_Cost>2</Move_Cost>
+		<pt>2/7</pt>
+		<Willpower>7</Willpower>
+		<Lore>1</Lore>
+		<Artist>Jonathan Livslyst</Artist>
+		<Franchise>The Lion King</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/02/Pride-Lands-Pride-Rock-Enchanted-Lorcana-Player-1-rotated.jpg"
+		rarity="Enchanted"
+		uuid="INK-207"
+	>INK</set>
+	<tablerow>1</tablerow>
+	<cipt>1</cipt>
+</card>
+<card>
+	<name>Jafar - Striking Illusionist (Enchanted)</name>
+	<text>Shift 5 (You may pay 5⬡ to play this on top of one of your characters named Jafar.)
+Evasive (Only characters with Evasive can challenge this character.)
+Power Beyond Measure: During your turn, while this character is exerted, whenever you draw a card, gain 1 lore.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Villain • Sorcerer</type>
+		<colors>Amethyst</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>7</manacost>
+		<Abilities>Shift • Evasive</Abilities>
+		<Strength>4</Strength>
+		<pt>4/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>1</Lore>
+		<Artist>Ivan Shavrin</Artist>
+		<Franchise>Aladdin</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/02/Jafar-Striking-Illusionist-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="INK-208"
+	>INK</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Maleficent - Mistress of All Evil (Enchanted)</name>
+	<text>Dark Knowledge: Whenever this character quests, you may draw a card.
+Divination: During your turn, whenever you draw a card, you may move 1 damage counter from chosen character to chosen opposing character.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Villain • Sorcerer</type>
+		<colors>Amethyst</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>5</manacost>
+		<Strength>2</Strength>
+		<pt>2/3</pt>
+		<Willpower>3</Willpower>
+		<Lore>2</Lore>
+		<Artist>Javi Salas</Artist>
+		<Franchise>Sleeping Beauty</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/02/Maleficent-Mistress-of-All-Evil-Enchanted-Lorcana-Player-1.jpg"
+		rarity="Enchanted"
+		uuid="INK-209"
+	>INK</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>The Sorcerer's Hat (Enchanted)</name>
+	<text>Incredible Energy: ↷, 1⬡ - Name a card, then reveal the top card of your deck. If it's the named card, put that card into your hand. Otherwise, put it on the top of your deck.</text>
+	<prop>
+		<maintype>Item</maintype>
+		<type>Item</type>
+		<colors>Amethyst</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>2</manacost>
+		<Artist>Jiahui Eva Gao</Artist>
+		<Franchise>Fantasia / Mickey Mouse &amp; Friends</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/02/The-Sorcerers-Hat-Enchanted-Lorcana-Player-1.jpg"
+		rarity="Enchanted"
+		uuid="INK-210"
+	>INK</set>
+	<tablerow>1</tablerow>
+</card>
+<card>
+	<name>Morph - Space Goo (Enchanted)</name>
+	<text>Mimicry - You may play any character with Shift on this character as if this character had any name.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Ally • Alien</type>
+		<colors>Emerald</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>2</manacost>
+		<Abilities>Shift</Abilities>
+		<Strength>2</Strength>
+		<pt>2/5</pt>
+		<Willpower>1</Willpower>
+		<Lore>1</Lore>
+		<Artist>Diogo Saito</Artist>
+		<Franchise>Treasure Planet</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/02/Morph-Space-Goo-Enchanted-Lorcana-Player-1.jpg"
+		rarity="Enchanted"
+		uuid="INK-211"
+	>INK</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Ursula - Deceiver of All (Enchanted)</name>
+	<text>What a Deal: Whenever this character sings a song, you may play that song again from your discard for free, then put it on the bottom of your deck.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Villain • Sorcerer</type>
+		<colors>Emerald</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>3</manacost>
+		<Strength>2</Strength>
+		<pt>2/3</pt>
+		<Willpower>3</Willpower>
+		<Lore>1</Lore>
+		<Artist>John Loren / Nicholas Kole</Artist>
+		<Franchise>The Little Mermaid</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/02/Ursula-Deceiver-of-All-Enchanted-Lorcana-Player-1.jpg"
+		rarity="Enchanted"
+		uuid="INK-212"
+	>INK</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Kuzco's Palace - Home of the Emperor (Enchanted)</name>
+	<text>City Walls: Whenever a character is challenged and banished while here, banish the challenging character.</text>
+	<prop>
+		<maintype>Location</maintype>
+		<type>Location</type>
+		<colors>Emerald</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>3</manacost>
+		<Move_Cost>3</Move_Cost>
+		<pt>3/7</pt>
+		<Willpower>7</Willpower>
+		<Lore>1</Lore>
+		<Artist>Roberto Gatto</Artist>
+		<Franchise>The Emperor's New Groove</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/02/Kuzcos-Palace-Home-of-the-Emperor-Enchanted-Lorcana-Player-1-rotated.jpg"
+		rarity="Enchanted"
+		uuid="INK-213"
+	>INK</set>
+	<tablerow>1</tablerow>
+	<cipt>1</cipt>
+</card>
+<card>
+	<name>Captain Hook - Master Swordsman (Enchanted)</name>
+	<text>Nemesis: During your turn, whenever this character banishes another character in a challenge, ready this character. He can't quest for the rest of this turn.
+Man-To-Man: Characters named Peter Pan lose Evasive and can't gain Evasive.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Villain • Pirate • Captain</type>
+		<colors>Ruby</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>5</manacost>
+		<Abilities>Evasive</Abilities>
+		<Strength>5</Strength>
+		<pt>5/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>1</Lore>
+		<Artist>Kuya Jaypi</Artist>
+		<Franchise>Peter Pan</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/02/Captain-Hook-Master-Swordsman-Enchanted-Lorcana-Player-1.jpg"
+		rarity="Enchanted"
+		uuid="INK-214"
+	>INK</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Peter Pan - Pirate's Bane (Enchanted)</name>
+	<text>Shift 4 (You may pay 4⬡ to play this on top of one of your characters named Peter Pan.)
+Evasive (Only characters with Evasive can challenge this character.)
+You're Next!: Whenever he challenges a Pirate character, this character takes no damage from the challenge.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Hero</type>
+		<colors>Ruby</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>6</manacost>
+		<Abilities>Shift • Evasive</Abilities>
+		<Strength>4</Strength>
+		<pt>4/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>2</Lore>
+		<Artist>Simone Buonfantino</Artist>
+		<Franchise>Peter Pan</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/02/Peter-Pan-Pirates-Bane-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="INK-215"
+	>INK</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>RLS Legacy - Solar Galleon (Enchanted)</name>
+	<text>This is our Ship: Characters gain Evasive while here. (Only characters with Evasive can challenge them.)
+Heave Together Now: If you have a character here, you pay 2⬡ less to move a character of yours here.</text>
+	<prop>
+		<maintype>Location</maintype>
+		<type>Location</type>
+		<colors>Ruby</colors>
+		<Inkable>No</Inkable>
+		<manacost>4</manacost>
+		<Abilities>Evasive</Abilities>
+		<Move_Cost>3</Move_Cost>
+		<pt>3/8</pt>
+		<Willpower>8</Willpower>
+		<Lore>2</Lore>
+		<Artist>Wietse Treurniet</Artist>
+		<Franchise>Treasure Planet</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/02/RLS-Legacy-Solar-Queen-Enchanted-Lorcana-Player-rotated.jpg"
+		rarity="Enchanted"
+		uuid="INK-216"
+	>INK</set>
+	<tablerow>1</tablerow>
+	<cipt>1</cipt>
+</card>
+<card>
+	<name>Gramma Tala - Spirit of the Ocean (Enchanted)</name>
+	<text>Shift 5 (You may pay 5⬡ to play this on top of one of your characters named Gramma Tala.)
+Do You Know Who You Are?: Whenever a card is put into your inkwell, gain 1 lore.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Mentor</type>
+		<colors>Sapphire</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>7</manacost>
+		<Abilities>Shift</Abilities>
+		<Strength>4</Strength>
+		<pt>4/8</pt>
+		<Willpower>8</Willpower>
+		<Lore>2</Lore>
+		<Artist>Alan Batson</Artist>
+		<Franchise>Moana</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/02/Gramma-Tala-Spirit-of-the-Ocean-Lorcana-Player-1.jpg"
+		rarity="Enchanted"
+		uuid="INK-217"
+	>INK</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Scrooge McDuck - Richest Duck in the World (Enchanted)</name>
+	<text>I'm Going Home!: During your turn, this character gains Evasive. (They can challenge characters with Evasive.)
+I Didn't Get Rich by Being Stupid: During your turn, whenever this character banishes another character in a challenge, you may play an item for free.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero</type>
+		<colors>Sapphire</colors>
+		<Inkable>No</Inkable>
+		<manacost>5</manacost>
+		<Abilities>Evasive</Abilities>
+		<Strength>3</Strength>
+		<pt>3/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>1</Lore>
+		<Artist>Gonzalo Kenny</Artist>
+		<Franchise>DuckTales</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/02/Scrooge-McDuck-Richest-Duck-in-the-World-Enchanted-Lorcana-Player-1.jpg"
+		rarity="Enchanted"
+		uuid="INK-218"
+	>INK</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Belle's House - Maurice's Workshop (Enchanted)</name>
+	<text>Laboratory: If you have a character here, you pay 1⬡ less to play items.</text>
+	<prop>
+		<maintype>Location</maintype>
+		<type>Location</type>
+		<colors>Sapphire</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>1</manacost>
+		<Move_Cost>2</Move_Cost>
+		<pt>2/6</pt>
+		<Willpower>6</Willpower>
+		<Artist>Pablo J. Rivera</Artist>
+		<Franchise>Beauty and the Beast</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/02/Belles-House-Maurices-Workshop-Enchanted-Lorcana-Player-2-rotated.jpg"
+		rarity="Enchanted"
+		uuid="INK-219"
+	>INK</set>
+	<tablerow>1</tablerow>
+	<cipt>1</cipt>
+</card>
+<card>
+	<name>Mickey Mouse - Trumpeter (Enchanted)</name>
+	<text>Sound The Call: ↷, 2⬡ - Play a character for free.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Hero</type>
+		<colors>Steel</colors>
+		<Inkable>No</Inkable>
+		<manacost>4</manacost>
+		<Strength>0</Strength>
+		<pt>0/1</pt>
+		<Willpower>1</Willpower>
+		<Lore>1</Lore>
+		<Artist>Luigi Aimé</Artist>
+		<Franchise>Mickey Mouse &amp; Friends</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/02/Mickey-Mouse-Trumpeter-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="INK-220"
+	>INK</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Robin Hood - Champion of Sherwood (Enchanted)</name>
+	<text>Shift 3 (You may pay 3⬡ to play this on top of one of your characters named Robin Hood.)
+Skilled Combatant: During your turn, whenever this character banishes another character in a challenge, gain 2 lore.
+The Good Of Others: When this character is banished in a challenge, you may draw a card.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Hero</type>
+		<colors>Steel</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>5</manacost>
+		<Abilities>Shift</Abilities>
+		<Strength>3</Strength>
+		<pt>3/6</pt>
+		<Willpower>6</Willpower>
+		<Lore>2</Lore>
+		<Artist>Noukah</Artist>
+		<Franchise>Robin Hood</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/02/Robin-Hood-Champion-of-Sherwood-Enchanted-Lorcana-Player-1.jpg"
+		rarity="Enchanted"
+		uuid="INK-221"
+	>INK</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>And Then Along Came Zeus (Enchanted)</name>
+	<text>(A character with cost 4 or more can ↷ to sing this song for free.)
+Deal 5 damage to chosen character or location.</text>
+	<prop>
+		<maintype>Action</maintype>
+		<type>Action • Song</type>
+		<colors>Steel</colors>
+		<Inkable>No</Inkable>
+		<manacost>4</manacost>
+		<Artist>Leonardo Giammichele</Artist>
+		<Franchise>Hercules</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/02/And-Then-Along-Came-Zeus-Enchanted-Lorcana-Player-1.jpg"
+		rarity="Enchanted"
+		uuid="INK-222"
+	>INK</set>
+	<tablerow>3</tablerow>
+</card>
+<!-- URS -->
+<card>
+	<name>Cinderella - Melody Weaver (Enchanted)</name>
+	<text>Singer 9 (This character counts as cost 9 to sing songs.)
+Beautiful Voice: Whenever this character sings a song, your other Princess characters get +1◆ this turn.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Hero • Princess</type>
+		<colors>Amber</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>5</manacost>
+		<Abilities>Singer</Abilities>
+		<Strength>1</Strength>
+		<pt>1/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>2</Lore>
+		<Artist>noc4urne</Artist>
+		<Franchise>Cinderella</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/05/Cinderella-Melody-Weaver-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="URS-205"
+	>URS</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Minnie Mouse - Musketeer Champion (Enchanted)</name>
+	<text>Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)
+Dramatic Entrance: When you play this character, banish chosen opposing character with 5※ or more.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Hero • Musketeer</type>
+		<colors>Amber</colors>
+		<Inkable>No</Inkable>
+		<manacost>5</manacost>
+		<Abilities>Bodyguard</Abilities>
+		<Strength>1</Strength>
+		<pt>1/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>2</Lore>
+		<Artist>Alice Pisoni</Artist>
+		<Franchise>The Three Musketeers</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/05/Minnie-Mouse-Musketeer-Champion-Enchanted-LQ-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="URS-206"
+	>URS</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Look at this Family (Enchanted)</name>
+	<text>Sing Together 7 (Any number of your or your teammates' characters with total cost 7 or more may ↷ to sing this song for free.)
+Look at the top 5 cards of your deck. You may reveal up to 2 character cards and put them into your hand. Put the rest on the bottom of your deck in any order.</text>
+	<prop>
+		<maintype>Action</maintype>
+		<type>Action • Song</type>
+		<colors>Amber</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>7</manacost>
+		<Abilities>Sing Together</Abilities>
+		<Artist>Marine Josephine</Artist>
+		<Franchise>Encanto</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/05/Look-At-This-Family-Enchanted-LQ-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="URS-207"
+	>URS</set>
+	<tablerow>3</tablerow>
+</card>
+<card>
+	<name>Ursula - Sea Witch Queen (Enchanted)</name>
+	<text>Shift 5 (You may pay 5⬡ to play this on top of one of your characters named Ursula.)
+Now I am the Ruler!: Whenever this character quests, exert chosen character.
+You'll Listen to Me!: Other characters can't exert to sing songs.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Villain • Queen • Sorcerer</type>
+		<colors>Amethyst</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>7</manacost>
+		<Abilities>Shift</Abilities>
+		<Strength>4</Strength>
+		<pt>4/7</pt>
+		<Willpower>7</Willpower>
+		<Lore>3</Lore>
+		<Artist>John Loren / Nicholas Kole</Artist>
+		<Franchise>The Little Mermaid</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/05/Ursula-Sea-Witch-Queen-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="URS-208"
+	>URS</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Yen Sid - Powerful Sorcerer (Enchanted)</name>
+	<text>Timely Intervention: When you play this character, if you have a character named Magic Broom in play, you may draw a card.
+Arcane Study: While you have 2 or more Broom characters in play, this character gets +2◆.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero • Sorcerer</type>
+		<colors>Amethyst</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>2</manacost>
+		<Strength>1</Strength>
+		<pt>1/3</pt>
+		<Willpower>3</Willpower>
+		<Lore>1</Lore>
+		<Artist>Alan Batson</Artist>
+		<Franchise>Fantasia</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/05/Yen-Sid-Powerful-Sorcerer-LQ-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="URS-209"
+	>URS</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Second Star to the Right (Enchanted)</name>
+	<text>Sing Together 10 (Any number of your or your teammates' characters with total cost 10 or more may ↷ to sing this song for free.)
+Chosen player draws 5 cards.</text>
+	<prop>
+		<maintype>Action</maintype>
+		<type>Action • Song</type>
+		<colors>Amethyst</colors>
+		<Inkable>No</Inkable>
+		<manacost>10</manacost>
+		<Abilities>Sing Together</Abilities>
+		<Artist>Saulo Nate</Artist>
+		<Franchise>Peter Pan</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/05/Second-Star-to-the-Right-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="URS-210"
+	>URS</set>
+	<tablerow>3</tablerow>
+</card>
+<card>
+	<name>Diablo - Devoted Herald (Enchanted)</name>
+	<text>Shift: Discard an action card (You may discard an action card to play this on top of one of your characters named Diablo.)
+Evasive (Only characters with Evasive can challenge this character.)
+Circle Far and Wide: During each opponent's turn, whenever they draw a card while this character is exerted, you may draw a card.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Ally</type>
+		<colors>Emerald</colors>
+		<Inkable>No</Inkable>
+		<manacost>3</manacost>
+		<Abilities>Shift • Evasive</Abilities>
+		<Strength>2</Strength>
+		<pt>2/2</pt>
+		<Willpower>2</Willpower>
+		<Lore>1</Lore>
+		<Artist>Cristian Romero</Artist>
+		<Franchise>Sleeping Beauty</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/05/Diablo-Devoted-Herald-Enchanted-LQ-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="URS-211"
+	>URS</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Jasmine - Desert Warrior (Enchanted)</name>
+	<text>Cunning Maneuver: When you play this character and whenever she's challenged, each opponent chooses and discards a card.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Hero • Princess</type>
+		<colors>Emerald</colors>
+		<Inkable>No</Inkable>
+		<manacost>5</manacost>
+		<Strength>3</Strength>
+		<pt>3/3</pt>
+		<Willpower>3</Willpower>
+		<Lore>2</Lore>
+		<Artist>noc4urne</Artist>
+		<Franchise>Aladdin</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/05/Jasmine-Desert-Warrior-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="URS-212"
+	>URS</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>We Don't Talk About Bruno (Enchanted)</name>
+	<text>(A character with cost X or more can ↷ to sing this song for free.)
+Return chosen character to their player's hand, then that player discards a card at random.</text>
+	<prop>
+		<maintype>Action</maintype>
+		<type>Action • Song</type>
+		<colors>Emerald</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>5</manacost>
+		<Artist>Victor "Yano" Covarrubias</Artist>
+		<Franchise>Encanto</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/05/We-Dont-Talk-About-Bruno-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="URS-213"
+	>URS</set>
+	<tablerow>3</tablerow>
+</card>
+<card>
+	<name>Goofy - Super Goof (Enchanted)</name>
+	<text>Rush (This character can challenge the turn they're played.)
+Super Peanut Powers: Whenever this character challenges another character, gain 2 lore.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero</type>
+		<colors>Ruby</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Abilities>Rush</Abilities>
+		<Strength>2</Strength>
+		<pt>2/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>1</Lore>
+		<Artist>Sam Nieson</Artist>
+		<Franchise>Disney Classics</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/05/Goofy-Super-Goof-Enchanted-LQ-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="URS-214"
+	>URS</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Sisu - Empowered Sibling (Enchanted)</name>
+	<text>Shift 6 (You may pay 6⬡ to play this on top of one of your characters named Sisu.)
+I Got This!: When you play this character, banish all opposing characters with 2※ or less.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Hero • Deity • Dragon</type>
+		<colors>Ruby</colors>
+		<Inkable>No</Inkable>
+		<manacost>8</manacost>
+		<Abilities>Shift</Abilities>
+		<Strength>5</Strength>
+		<pt>5/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>3</Lore>
+		<Artist>João Moura</Artist>
+		<Franchise>Raya and the Last Dragon</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/05/Sisu-Empowered-Sibling-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="URS-215"
+	>URS</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Snuggly Duckling - Disreputable Pub (Enchanted)</name>
+	<text>Routine Ruckus: Whenever a character with 3※ or more challenge another character while here, gain 1 lore. If the challenging character has 6※ or more, gain 3 lore instead.</text>
+	<prop>
+		<maintype>Location</maintype>
+		<type>Location</type>
+		<colors>Ruby</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>2</manacost>
+		<Move_Cost>2</Move_Cost>
+		<pt>2/9</pt>
+		<Willpower>9</Willpower>
+		<Artist>Roberto Gatto</Artist>
+		<Franchise>Tangled</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/05/Snuggly-Duckling-Disreputable-Pub-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="URS-216"
+	>URS</set>
+	<tablerow>1</tablerow>
+	<cipt>1</cipt>
+</card>
+<card>
+	<name>Anna - True-Hearted (Enchanted)</name>
+	<text>Let Me Help You: Whenever this character quests, your other Hero characters get +1◆ this turn.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Hero • Queen • Knight</type>
+		<colors>Sapphire</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Strength>2</Strength>
+		<pt>2/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>2</Lore>
+		<Artist>noc4urne</Artist>
+		<Franchise>Frozen</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/05/Anna-True-Hearted-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="URS-217"
+	>URS</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>The Queen - Diviner (Enchanted)</name>
+	<text>Consult the Spellbook: ↷ - Look at the top 4 cards of your deck. You may reveal an item card and put it into your hand. If that item costs 3 or less, you may play it for free instead and it enters play exerted. Put the rest on the bottom of your deck in any order.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Villain • Queen • Sorcerer</type>
+		<colors>Sapphire</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>3</manacost>
+		<Strength>3</Strength>
+		<pt>3/3</pt>
+		<Willpower>3</Willpower>
+		<Lore>1</Lore>
+		<Artist>noc4urne</Artist>
+		<Franchise>Snow White and the Seven Dwarves</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/05/The-Queen-Diviner-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="URS-218"
+	>URS</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Ariel's Grotto - A Secret Place (Enchanted)</name>
+	<text>Treasure Trove: While you have 3 or more items in play, this location gets +2◆.</text>
+	<prop>
+		<maintype>Location</maintype>
+		<type>Location</type>
+		<colors>Sapphire</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>2</manacost>
+		<Move_Cost>2</Move_Cost>
+		<pt>2/7</pt>
+		<Willpower>7</Willpower>
+		<Lore>0</Lore>
+		<Artist>Jeremy Adams</Artist>
+		<Franchise>The Little Mermaid</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/05/Ariels-Grotto-A-Secret-Place-Enchanted-LQ-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="URS-219"
+	>URS</set>
+	<tablerow>1</tablerow>
+	<cipt>1</cipt>
+</card>
+<card>
+	<name>Ariel - Sonic Warrior (Enchanted)</name>
+	<text>Shift 4 (You may pay 4⬡ to play this on top of one of your characters named Ariel.)
+Amplified Voice: Whenever you play a song, you may pay 2⬡ to deal 3 damage to chosen character.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Hero • Princess</type>
+		<colors>Steel</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>6</manacost>
+		<Abilities>Shift</Abilities>
+		<Strength>3</Strength>
+		<pt>3/8</pt>
+		<Willpower>8</Willpower>
+		<Lore>2</Lore>
+		<Artist>noc4urne</Artist>
+		<Franchise>The Little Mermaid</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/05/Ariel-Sonic-Warrior-Enchanted-LQ-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="URS-220"
+	>URS</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Piglet - Sturdy Swordsman (Enchanted)</name>
+	<text>Resist +1 (Damage dealt to this character is reduced by 1.)
+Not So Small Anymore: While you have no cards in your hand, this character can challenge ready characters.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Hero</type>
+		<colors>Steel</colors>
+		<Inkable>No</Inkable>
+		<manacost>5</manacost>
+		<Abilities>Resist</Abilities>
+		<Strength>3</Strength>
+		<pt>3/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>3</Lore>
+		<Artist>Simangaliso Sibaya</Artist>
+		<Franchise>Winnie the Pooh</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/05/Piglet-Sturdy-Swordsman-Enchanted-LQ-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="URS-221"
+	>URS</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>The Wall - Border Fortress (Enchanted)</name>
+	<text>Protect The Realm: While you have an exerted character here, your other locations can't be challenged.</text>
+	<prop>
+		<maintype>Location</maintype>
+		<type>Location</type>
+		<colors>Steel</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Move_Cost>2</Move_Cost>
+		<pt>2/8</pt>
+		<Willpower>8</Willpower>
+		<Lore>0</Lore>
+		<Artist>Andreas Rocha</Artist>
+		<Franchise>Mulan</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/05/The-Wall-Border-Fortress-Enchanted-LQ-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="URS-222"
+	>URS</set>
+	<tablerow>1</tablerow>
+	<cipt>1</cipt>
+</card>
+<!-- SSK -->
+<card>
+	<name>Prince Naveen - Ukulele Player (Enchanted)</name>
+	<text>Singer 6 (This-character counts as cost 6⬡ to sing songs.)
+It's Beautiful, No?: When you play this character, you may play a song with cost 6 or less for free.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero • Prince</type>
+		<colors>Amber</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Abilities>Singer</Abilities>
+		<Strength>3</Strength>
+		<pt>3/3</pt>
+		<Willpower>3</Willpower>
+		<Lore>2</Lore>
+		<Artist>Aisha Durmagambetova</Artist>
+		<Franchise>The Princess and the Frog</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Prince-Naveen-Ukulele-Player-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="SSK-205"
+	>SSK</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Vanellope von Schweetz - Sugar Rush Princess (Enchanted)</name>
+	<text>Shift 2 (You may pay 2⬡ to play this on top of one of your characters named Vanellope von Schweetz.)
+I Hereby Decree: Whenever you play another Princess character, all opposing characters get -1※ until the start of your next turn.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Hero • Princess • Racer</type>
+		<colors>Amber</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Abilities>Shift</Abilities>
+		<Strength>2</Strength>
+		<pt>2/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>2</Lore>
+		<Artist>Natalie Dombois</Artist>
+		<Franchise>Wreck-It Ralph</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/08/Vanellope-Von-Schweetz-Sugar-Rush-Princess-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="SSK-206"
+	>SSK</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Revive (Enchanted)</name>
+	<text>Play a character with cost 5 or less from your discard for free.</text>
+	<prop>
+		<maintype>Action</maintype>
+		<type>Action</type>
+		<colors>Amber</colors>
+		<Inkable>No</Inkable>
+		<manacost>5</manacost>
+		<Artist>Aisha Durmagambetova</Artist>
+		<Franchise>Lorcana</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Revive-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="SSK-207"
+	>SSK</set>
+	<tablerow>3</tablerow>
+</card>
+<card>
+	<name>Archimedes - Electrified Owl (Enchanted)</name>
+	<text>Shift 3 (You may pay 3⬡ to play this on top of one of your characters named Archimedes.)
+Evasive (Only characters with Evasive can challenge this character.)
+Challenger +3 (While challenging, this character gets +3※.)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Ally</type>
+		<colors>Amethyst</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>5</manacost>
+		<Abilities>Shift • Evasive • Challenger</Abilities>
+		<Strength>1</Strength>
+		<pt>1/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>2</Lore>
+		<Artist>Andrew Thompson</Artist>
+		<Franchise>The Sword in the Stone</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Archimedes-Electrified-Owl-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="SSK-208"
+	>SSK</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Olaf - Happy Passenger (Enchanted)</name>
+	<text>Clear The Path: For each exerted character opponents have in play, you pay 1⬡ less to play this character.
+Evasive (Only characters with Evasive can challenge this character.)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Ally</type>
+		<colors>Amethyst</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>9</manacost>
+		<Abilities>Evasive</Abilities>
+		<Strength>6</Strength>
+		<pt>6/6</pt>
+		<Willpower>6</Willpower>
+		<Lore>3</Lore>
+		<Artist>Alice Pisoni</Artist>
+		<Franchise>Frozen</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/08/Olaf-Happy-Passenger-Enchanted-Lorcana-Player-1.jpg"
+		rarity="Enchanted"
+		uuid="SSK-209"
+	>SSK</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Finders Keepers (Enchanted)</name>
+	<text>Draw 3 cards.</text>
+	<prop>
+		<maintype>Action</maintype>
+		<type>Action</type>
+		<colors>Amethyst</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>5</manacost>
+		<Artist>Rachel Elese</Artist>
+		<Franchise>Aladdin</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Finders-Keepers-Enchanted-Lorcana-Player-1.jpg"
+		rarity="Enchanted"
+		uuid="SSK-210"
+	>SSK</set>
+	<tablerow>3</tablerow>
+</card>
+<card>
+	<name>Clarabelle - Light on Her Hooves (Enchanted)</name>
+	<text>Shift 5 (You may pay 5⬡ to play this on top of one of your characters named Clarabelle.)
+Keep In Step: At the end of your turn, if chosen opponent has more cards in their hand than you, you may draw cards until you have the same number.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Ally</type>
+		<colors>Emerald</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>7</manacost>
+		<Abilities>Shift</Abilities>
+		<Strength>5</Strength>
+		<pt>5/6</pt>
+		<Willpower>6</Willpower>
+		<Lore>2</Lore>
+		<Artist>Natalie Dombois</Artist>
+		<Franchise>Mickey Mouse &amp; Friends</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Clarabelle-Light-on-Her-Hooves-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="SSK-211"
+	>SSK</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Scar - Vengeful Lion (Enchanted)</name>
+	<text>Ward (Opponents can't choose this character except to challenge.)
+Life's not fair, is it?: Whenever one of your characters challenges a damaged character, you may draw a card.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Villain</type>
+		<colors>Emerald</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Abilities>Ward</Abilities>
+		<Strength>4</Strength>
+		<pt>4/2</pt>
+		<Willpower>2</Willpower>
+		<Lore>2</Lore>
+		<Artist>Dominik Mayer</Artist>
+		<Franchise>The Lion King</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Scar-Vengeful-Lion-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="SSK-212"
+	>SSK</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>You're Welcome (Enchanted)</name>
+	<text>(A character with cost 4 or more can ↷ to sing this song for free.)
+Shuffle chosen character, item, or location into their player's deck. That player draws 2 cards.</text>
+	<prop>
+		<maintype>Action</maintype>
+		<type>Action • Song</type>
+		<colors>Emerald</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Artist>Stefano Zanchi</Artist>
+		<Franchise>Moana</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Youre-Welcome-Enchanted-LQ-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="SSK-213"
+	>SSK</set>
+	<tablerow>3</tablerow>
+</card>
+<card>
+	<name>Donald Duck - Pie Slinger (Enchanted)</name>
+	<text>Shift 4 (You may pay 4⬡ to play this on top of one of your characters named Donald Duck.)
+Humble Pie: When you play this character, if you used Shift to play him, each opponent loses 2 lore.
+Raging Duck: While an opponent has 10 or more lore, this character gets +6※</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Hero • Knight</type>
+		<colors>Ruby</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>5</manacost>
+		<Abilities>Shift</Abilities>
+		<Strength>3</Strength>
+		<pt>3/6</pt>
+		<Willpower>6</Willpower>
+		<Lore>1</Lore>
+		<Artist>Gabriel Quinn</Artist>
+		<Franchise>Mickey Mouse &amp; Friends</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Donald-Duck-Pie-Slinger-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="SSK-214"
+	>SSK</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Robin Hood - Sharpshooter (Enchanted)</name>
+	<text>My Greatest Performance: Whenever this character quests, look at the top 4 cards of your deck. You my reveal an action card with cost 6 or less and play it for free. Put the rest in your discard.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero</type>
+		<colors>Ruby</colors>
+		<Inkable>No</Inkable>
+		<manacost>4</manacost>
+		<Strength>1</Strength>
+		<pt>1/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>2</Lore>
+		<Artist>Vanessa Morales</Artist>
+		<Franchise>Robin Hood</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Robin-Hood-Sharpshooter-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="SSK-215"
+	>SSK</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Ratigan's Party - Seedy Back Room (Enchanted)</name>
+	<text>Misfits' Revelry: While you have a damaged character here, this location gets +2◆.</text>
+	<prop>
+		<maintype>Location</maintype>
+		<type>Location</type>
+		<colors>Ruby</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>2</manacost>
+		<Move_Cost>1</Move_Cost>
+		<pt>1/7</pt>
+		<Willpower>7</Willpower>
+		<Artist>Rachel Elese</Artist>
+		<Franchise>The Great Mouse Detective</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/08/Ratigans-Party-Seedy-Back-Room-Enchanted-Lorcana-Player-rotated.jpg"
+		rarity="Enchanted"
+		uuid="SSK-216"
+	>SSK</set>
+	<tablerow>1</tablerow>
+	<cipt>1</cipt>
+</card>
+<card>
+	<name>Mufasa - Ruler of Pride Rock (Enchanted)</name>
+	<text>A Delicate Balance: When you play this character, Exert all cards in your inkwell, then return 2 cards at random from your inkwell to your hand.
+Everything the Light Touches: Whenever this character quests, ready all cards in your inkwell.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Mentor • King</type>
+		<colors>Sapphire</colors>
+		<Inkable>No</Inkable>
+		<manacost>8</manacost>
+		<Strength>4</Strength>
+		<pt>4/9</pt>
+		<Willpower>9</Willpower>
+		<Lore>4</Lore>
+		<Artist>Jochem van Gool</Artist>
+		<Franchise>The Lion King</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/08/Mufasa-Ruler-of-Pride-Rock-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="SSK-217"
+	>SSK</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>King Candy - Sweet Abomination (Enchanted)</name>
+	<text>Shift 3 (You may pay 3⬡ to play this on top of one of your characters named King Candy.)
+Changing the Code: When you play this character, you may draw 2 cards, then put a card from your hand on the bottom of your deck.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Villain • King • Racer</type>
+		<colors>Sapphire</colors>
+		<Inkable>No</Inkable>
+		<manacost>5</manacost>
+		<Abilities>Shift</Abilities>
+		<Strength>3</Strength>
+		<pt>3/3</pt>
+		<Willpower>3</Willpower>
+		<Lore>2</Lore>
+		<Artist>Lorenza Pigliamosche</Artist>
+		<Franchise>Wreck-It Ralph</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/King-Candy-Sweet-Abomination-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="SSK-218"
+	>SSK</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Royal Tantrum (Enchanted)</name>
+	<text>Banish any number of your items, then draw a card for each item banished this way.</text>
+	<prop>
+		<maintype>Action</maintype>
+		<type>Action</type>
+		<colors>Sapphire</colors>
+		<Inkable>No</Inkable>
+		<manacost>4</manacost>
+		<Artist>Jennifer Wu</Artist>
+		<Franchise>The Sword in the Stone</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Royal-Tantrum-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="SSK-219"
+	>SSK</set>
+	<tablerow>3</tablerow>
+</card>
+<card>
+	<name>Snow White - Fair-Hearted (Enchanted)</name>
+	<text>Natural Leader: This character gains Resist +1 for each other Knight character you have in play. (Damage dealt to this character is reduced by 1 for each other Knight.)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Hero • Princess • Knight</type>
+		<colors>Steel</colors>
+		<Inkable>No</Inkable>
+		<manacost>5</manacost>
+		<Abilities>Resist</Abilities>
+		<Strength>3</Strength>
+		<pt>3/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>3</Lore>
+		<Artist>Otto Schmidt</Artist>
+		<Franchise>Snow White and the Seven Dwarfs</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/08/Snow-White-Fair-Hearted-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="SSK-220"
+	>SSK</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Arthur - King Victorius (Enchanted)</name>
+	<text>Shift 5 (You may pay 5⬡ to play this on top of one of your characters named Arthur.)
+Knighted by the King: When you play this character, chosen character gains Challenger +2 and Resist +2 and can challenge ready characters this turn. (They get +2※ while challenging. Damage dealt to them is reduced by 2.)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Hero • King</type>
+		<colors>Steel</colors>
+		<Inkable>No</Inkable>
+		<manacost>7</manacost>
+		<Abilities>Shift • Challenger • Resist</Abilities>
+		<Strength>3</Strength>
+		<pt>3/6</pt>
+		<Willpower>6</Willpower>
+		<Lore>3</Lore>
+		<Artist>Lisa Parfenova</Artist>
+		<Franchise>The Sword in the Stone</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Arthur-King-Victorious-Enchanted-Lorcana-Player-1.jpg"
+		rarity="Enchanted"
+		uuid="SSK-221"
+	>SSK</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Bad-Anon - Villain Support Center (Enchanted)</name>
+	<text>There's No One I'd Rather Be Than Me: Villain characters gain "↷, 3⬡ - Play a character with the same name as this character for free" while here."</text>
+	<prop>
+		<maintype>Location</maintype>
+		<type>Location</type>
+		<colors>Steel</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>3</manacost>
+		<Move_Cost>2</Move_Cost>
+		<pt>2/7</pt>
+		<Willpower>7</Willpower>
+		<Lore>1</Lore>
+		<Artist>Rachel Elese</Artist>
+		<Franchise>Wreck-It Ralph</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Bad-Anon-Villain-Support-Center-Enchanted-Lorcana-Player.jpg"
+		rarity="Enchanted"
+		uuid="SSK-222"
+	>SSK</set>
+	<tablerow>1</tablerow>
+	<cipt>1</cipt>
+</card>
+<!-- Set 6 -->
+</cards>
+</cockatrice_carddatabase>
