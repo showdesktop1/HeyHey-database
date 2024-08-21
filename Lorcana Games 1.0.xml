@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+<!-- Illumineer’s Quest: Deep Trouble -->
+<sets>
+<set>
+	<name>IQDT</name>
+	<longname>Illumineer's Quest: Deep Trouble</longname>
+	<settype>Lorcana Game</settype>
+	<releasedate>2024-05-31</releasedate>
+</set>
+</sets>
+<cards>
+<!--
+
+*Known errors related to Cockatrice's operations: 
+	Same name as an MTG card (a (.) is added behind the card name)
+	IQDT-017 Capsize.
+*imgur online image link
+	IQDT-00A IQDT-00B IQDT-00C IQDT-00D
+	
+-->
+<card>
+	<name>Piglet - Pooh Pirate Captain (Deep Trouble)</name>
+	<text>And I'm The Captain! - While you have 2 or more other characters in play, this character gets +2◆</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Hero • Pirate • Captain</type>
+		<colors>Amber</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>2</manacost>
+		<Strength>2</Strength>
+		<pt>2/2</pt>
+		<Willpower>2</Willpower>
+		<Lore>1</Lore>
+		<Artist>Grace Tran</Artist>
+		<Franchise>Winnie the Pooh</Franchise>
+		<Flavor>"Ahoy! There’s lore out there, and I’m g-gonna find it!"</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/03/Piglet-Pooh-Pirate-Captain-Deep-Trouble-Lorcana-Player-1-430x600.jpg"
+		rarity="Super Rare"
+		uuid="INK-223"
+	>IQDT</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Yen Sid - Powerful Sorcerer (Deep Trouble)</name>
+	<text>Timely Intervention - When you play this character, if you have a character named Magic Broom in play, you may draw a card.
+Arcane Study - While you have 2 or more Broom characters in play, this character gets +2◆.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero • Sorcerer</type>
+		<colors>Amethyst</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>2</manacost>
+		<Strength>1</Strength>
+		<pt>1/3</pt>
+		<Willpower>3</Willpower>
+		<Lore>1</Lore>
+		<Artist>Matthew Robert Davies</Artist>
+		<Franchise>Fantasia</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/03/Yen-Sid-Powerful-Sorcerer-Deep-Trouble-Lorcana-Player.jpg"
+		rarity="Legendary"
+		uuid="URS-223"
+	>IQDT</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Mulan - Elite Archer (Deep Trouble)</name>
+	<text>Shift 5 (You may pay 5⬡ to play this on top of one of your characters named Mulan.)
+Strait Shooter - When you play this character, if you used Shift to play her, she gets +3※ this turn.
+Triple Shot - During your turn, whenever this character deals damage to another character in a challenge, deal the same amount of damage to up to 2 other chosen characters.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Hero • Princess</type>
+		<colors>Ruby</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>6</manacost>
+		<Abilities>Shift</Abilities>
+		<Strength>2</Strength>
+		<pt>2/6</pt>
+		<Willpower>6</Willpower>
+		<Lore>2</Lore>
+		<Artist>Nicola Saviori</Artist>
+		<Franchise>Mulan</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/03/Mulan-Elite-Archer-Deep-Trouble-Lorcana-Player-430x600.jpg"
+		rarity="Legendary"
+		uuid="URS-224"
+	>IQDT</set>
+	<tablerow>2</tablerow>
+</card>		
+<card>
+	<name>Mickey Mouse - Playful Sorcerer (Deep Trouble)</name>
+	<text>Shift 3 (You may pay 3⬡ to play this on top of one of your characters named Mickey Mouse.)
+Resist +1 (Damage dealt to this character is reduced by 1.)
+Swept Away - When you play this character, deal damage to chosen character equal to the number of Broom characters you have in play.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Hero • Sorcerer</type>
+		<colors>Steel</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>5</manacost>
+		<Abilities>Shift • Resist</Abilities>
+		<Strength>3</Strength>
+		<pt>3/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>2</Lore>
+		<Artist>Alice Pisoni</Artist>
+		<Franchise>Mickey Mouse &amp; Friends • Fantasia</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/03/Mickey-Mouse-Playful-Sorcerer-Deep-Trouble-Lorcana-Player-430x600.jpg"
+		rarity="Rare"
+		uuid="URS-225"
+	>IQDT</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Half Hexwell Crown (Deep Trouble)</name>
+	<text>An Unexpected Find - ↷, 2⬡ - Draw a card.
+A Perilous Power - ↷, 2⬡, Discard a card - Exert chosen character.</text>
+	<prop>
+		<maintype>Item</maintype>
+		<type>Item</type>
+		<colors>Amethyst</colors>
+		<Inkable>No</Inkable>
+		<manacost>6</manacost>
+		<Artist>Billy Wimblett</Artist>
+		<Franchise>Lorcana</Franchise>
+		<Flavor>The broken crown holds dark and mysterious powers.</Flavor>
+	</prop>
+	<set 
+		picurl="https://images.dreamborn.ink/cards/en/005-223_1468x2048.webp"
+		rarity="Rare"
+		uuid="SKY-223"
+	>IQDT</set>
+	<tablerow>1</tablerow>
+</card>
+<card>
+	<name>Ursula - Ruler of Lorcana</name>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Special</type>
+		<colors>Entangled</colors>
+		<Inkable>N/A</Inkable>
+		<manacost>0</manacost>
+		<Artist>John Loren</Artist>
+		<Franchise>The Little Mermaid</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/03/Ursula-Ruler-of-Lorcana-Lorcana-Player.jpg"
+		rarity="Special"
+		uuid="IQDT-000"
+	>IQDT</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>The Encounter (Deep Trouble)</name>
+	<text>DIFFICULTY: EASY
+Ursula doesn't draw additional cards for lore each turn.
+PLAYER ABILITIES
+Lore Cost - Effect
+1 - Remove up to 2 damage from chosen character.
+2 - Ready or exert chosen character.
+3 - Chosen player draws 2 cards.</text>
+	<prop>
+		<maintype>Battleground</maintype>
+		<type>Battleground - EASY</type>
+		<colors>Entangled</colors>
+		<Artist>Eri Welli / Katie Cuthbertson</Artist>
+	</prop>
+	<set 
+		picurl="https://i.imgur.com/xKd22FX.jpeg"
+		rarity="Special"
+		uuid="IQDT-00A"
+	>IQDT</set>
+	<tablerow>1</tablerow>
+	<cipt>1</cipt>
+</card>
+<card>
+	<name>A Dark Realm (Deep Trouble)</name>
+	<text>DIFFICULTY: NORMAL
+PLAYER ABILITIES
+Lore Cost - Effect
+1 - Chosen character gets +2※ this turn.
+2 - Chosen character gains Resist +1 until the start of your next turn.
+3 - Each player except Ursula draws a card.</text>
+	<prop>
+		<maintype>Battleground</maintype>
+		<type>Battleground - NORMAL</type>
+		<colors>Entangled</colors>
+		<Artist>Sam Burley / Eri Welli</Artist>
+	</prop>
+	<set 
+		picurl="https://i.imgur.com/bUk9CT6.jpeg"
+		rarity="Special"
+		uuid="IQDT-00B"
+	>IQDT</set>
+	<tablerow>1</tablerow>
+	<cipt>1</cipt>
+</card>
+<card>
+	<name>The Lair (Deep Trouble)</name>
+	<text>DIFFICULTY: HARD
+Ursula draws 1 more card each turn.
+PLAYER ABILITIES
+Lore Cost - Effect
+1 - Deal 1 damage to chosen character.
+2 - Ready chosen character.
+3 - Each player except Ursula puts the top card of their deck into their inkwell facedown and exerted.</text>
+	<prop>
+		<maintype>Battleground</maintype>
+		<type>Battleground - HARD</type>
+		<colors>Entangled</colors>
+		<Artist>Wietse Treurniet</Artist>
+	</prop>
+	<set 
+		picurl="https://i.imgur.com/JtFhTkN.jpeg"
+		rarity="Special"
+		uuid="IQDT-00C"
+	>IQDT</set>
+	<tablerow>1</tablerow>
+	<cipt>1</cipt>
+</card>
+<card>
+	<name>Infinite Wrath (Deep Trouble)</name>
+	<text>DIFFICULTY: EXTREME
+Ursula draws 1 more card each turn.
+PLAYER ABILITIES
+Lore Cost - Effect
+2 - Ursula discards a card at random.</text>
+	<prop>
+		<maintype>Battleground</maintype>
+		<type>Battleground - EXTREME</type>
+		<colors>Entangled</colors>
+		<Artist>John Loren</Artist>
+	</prop>
+	<set 
+		picurl="https://i.imgur.com/9qMtWzk.jpeg"
+		rarity="Special"
+		uuid="IQDT-00D"
+	>IQDT</set>
+	<tablerow>1</tablerow>
+	<cipt>1</cipt>
+</card>
+<card>
+	<name>Anna - Ensnared Sister</name>
+	<text>Evasive (Only characters with Evasive can challenge this character.)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Entangled • Hero • Queen</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>6</manacost>
+		<Strength>5</Strength>
+		<pt>5/6</pt>
+		<Willpower>6</Willpower>
+		<Lore>2</Lore>
+		<Artist>Dustin Panzino</Artist>
+		<Franchise>Frozen</Franchise>
+		<Flavor>"Ah, royalty! So pretty. So naive. So utterly impressionable."
+- Ursula</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Anna-Ensnared-Sister-Lorcana-Player-430x600.jpg"
+		rarity="Special"
+		uuid="IQDT-001"
+	>IQDT</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Bruno Madrigal - Unspeakable Seer</name>
+	<text>Dark Prophecy - When you play this character, each opposing player puts the top 3 cards of their deck into their discard.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Entangled • Ally • Madrigal</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>2</manacost>
+		<Strength>4</Strength>
+		<pt>4/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>1</Lore>
+		<Artist>Brian Kesinger</Artist>
+		<Franchise>Encanto</Franchise>
+		<Flavor>"His talents have already come in quite handy."
+- Ursula</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Bruno-Madrigal-Unspeakable-Seer-Lorcana-Player-430x600.jpg"
+		rarity="Special"
+		uuid="IQDT-002"
+	>IQDT</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Captain Hook - Devious Duelist</name>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Entangled • Villain • Pirate • Captain</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>5</manacost>
+		<Strength>7</Strength>
+		<pt>7/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>2</Lore>
+		<Artist>Gonzalo Kenny</Artist>
+		<Franchise>Peter Pan</Franchise>
+		<Flavor>"An obvious choice, of course. So full of treachery and deceit. He reminds me of…me."
+– Ursula</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/03/Captain-Hook-Devious-Duelist-Lorcana-Player.jpg"
+		rarity="Special"
+		uuid="IQDT-003"
+	>IQDT</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Flotsam - Wicked Defender</name>
+	<text>Bodyguard (An opposing character who challenges one of your characters must choose one with Bodyguard if able.)
+Ursula's Sentry - This character enters play exerted.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Ally</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Abilities>Bodyguard</Abilities>
+		<Strength>5</Strength>
+		<pt>5/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>2</Lore>
+		<Artist>Jeanne Plounevez</Artist>
+		<Franchise>The Little Mermaid</Franchise>
+		<Flavor>"My darling baby, always so protective."
+- Ursula</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Flotsam-Wicked-Defender-Lorcana-Player-430x600.jpg"
+		rarity="Special"
+		uuid="IQDT-004"
+	>IQDT</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Gaston - Egotistical Bully</name>
+	<text>Positively Primeval - When you play this character, deal 4 damage to the opposing character with the lowest cost. 9If there's a tie, the opposing players choose from the tied characters.)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Entangled • Villain</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>2</manacost>
+		<Strength>2</Strength>
+		<pt>2/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>1</Lore>
+		<Artist>Leonardo Giammichele</Artist>
+		<Franchise>Beauty and the Beast</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Gaston-Egotistical-Bully-Lorcana-Player-430x600.jpg"
+		rarity="Special"
+		uuid="IQDT-005"
+	>IQDT</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>HeiHei - Peckish Pal</name>
+	<text>Evasive (Only characters with Evasive can challenge this character.)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Ally</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>3</manacost>
+		<Strength>3</Strength>
+		<pt>3/2</pt>
+		<Willpower>2</Willpower>
+		<Lore>1</Lore>
+		<Artist>Veronica Di Lorenzo / Livio Cacciatore</Artist>
+		<Franchise>Moana</Franchise>
+		<Flavor>He doesn’t know why he’s here. Neither does Ursula.</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Heihei-Peckish-Pal-Lorcana-Player-430x600.jpg"
+		rarity="Special"
+		uuid="IQDT-006"
+	>IQDT</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Hercules - Manipulated Hero</name>
+	<text>Bodyguard (An opposing character who challenges one of your characters must choose one with Bodyguard if able.)
+Ursula's Sentry - This character enters play exerted.
+Everything Has A Price - During the opposing players' turn, they may together pay 3 lore to banish this character.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Entangled • Hero • Prince</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Abilities>Bodyguard</Abilities>
+		<Strength>3</Strength>
+		<pt>3/7</pt>
+		<Willpower>7</Willpower>
+		<Lore>2</Lore>
+		<Artist>Mario Oscar Gabriele</Artist>
+		<Franchise>Hercules</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Hercules-Manipulated-Hero-Lorcana-Player-430x600.jpg"
+		rarity="Special"
+		uuid="IQDT-007"
+	>IQDT</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Jafar - Double-Crossing Vizier</name>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Entangled • Villain • Sorcerer</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>7</manacost>
+		<Strength>9</Strength>
+		<pt>9/9</pt>
+		<Willpower>9</Willpower>
+		<Lore>3</Lore>
+		<Artist>Ilaria Sposetti</Artist>
+		<Franchise>Aladdin</Franchise>
+		<Flavor>With such a strong will, he was difficult to entangle. But I always get my way in the end."
+- Ursula</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Jafar-Double-Crossing-Vizier-Lorcana-Player-430x600.jpg"
+		rarity="Special"
+		uuid="IQDT-008"
+	>IQDT</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Jetsam - Wicked Whisperer</name>
+	<text>Ursula Has Great Powers - When you play this character, deal 1 damage to each opposing character.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Ally</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>2</manacost>
+		<Strength>5</Strength>
+		<pt>5/3</pt>
+		<Willpower>3</Willpower>
+		<Lore>1</Lore>
+		<Artist>Jeanne Plounevez</Artist>
+		<Franchise>The Little Mermaid</Franchise>
+		<Flavor>"My little poopsie can sway even the most stubborn glimmers."
+- Ursula</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Jetsam-Wicked-Whisperer-Lorcana-Player-430x600.jpg"
+		rarity="Special"
+		uuid="IQDT-009"
+	>IQDT</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Mad Hatter - Sinister Host</name>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Entangled • Ally</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>2</manacost>
+		<Strength>3</Strength>
+		<pt>3/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>1</Lore>
+		<Artist>John Loren</Artist>
+		<Franchise>Alice in Wonderland</Franchise>
+		<Flavor>He’s simply wild for parties. He’s already celebrating my victory!"
+- Ursula</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Mad-Hatter-Sinister-Host-Lorcana-Player.jpg"
+		rarity="Special"
+		uuid="IQDT-010"
+	>IQDT</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Magica De Spell - Shadowy Sorceress</name>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Entangled • Villain • Sorcerer</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>3</manacost>
+		<Strength>4</Strength>
+		<pt>4/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>2</Lore>
+		<Artist>Gonzalo Kenny</Artist>
+		<Franchise>Duck Tales</Franchise>
+		<Flavor>"Her quaint spells are little more than trifles compared to my own. Still, she does have her uses."
+- Ursula</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Magica-De-Spell-Shadowy-Sorceress-Lorcana-Player.jpg"
+		rarity="Special"
+		uuid="IQDT-011"
+	>IQDT</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Minnie Mouse - Wild Eyed Diver</name>
+	<text>Confusing Presence - When you play this character, each opposing player loses 2 lore.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Entangled • Hero</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>7</manacost>
+		<Strength>6</Strength>
+		<pt>6/7</pt>
+		<Willpower>7</Willpower>
+		<Lore>2</Lore>
+		<Artist>Gonzalo Kenny</Artist>
+		<Franchise>Mickey Mouse &amp; Friends</Franchise>
+		<Flavor>"The first - and best - of my entangled glimmers."
+- Ursula</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Minnie-Mouse-Wild-Eyed-Diver-Lorcana-Player-430x600.jpg"
+		rarity="Special"
+		uuid="IQDT-012"
+	>IQDT</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Prince Eric - Grim Groom</name>
+	<text>Bodyguard (An opposing character who challenges one of your characters must choose one with Bodyguard if able.)
+Ursula's Sentry - This character enters play exerted.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Entangled • Hero • Prince</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>1</manacost>
+		<Abilities>Bodyguard</Abilities>
+		<Strength>2</Strength>
+		<pt>2/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>1</Lore>
+		<Artist>Jared Nickerl</Artist>
+		<Franchise>The Little Mermaid</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Prince-Eric-Grim-Groom-Lorcana-Player-430x600.jpg"
+		rarity="Special"
+		uuid="IQDT-013"
+	>IQDT</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Shark - Toothy Terror</name>
+	<text>Big Bully - When you play this character, deal 2 damage to each opposing damaged character.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Entangled • Ally</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>5</manacost>
+		<Strength>4</Strength>
+		<pt>4/7</pt>
+		<Willpower>7</Willpower>
+		<Lore>1</Lore>
+		<Artist>Jared Nickerl</Artist>
+		<Franchise>The Little Mermaid</Franchise>
+		<Flavor>"He loves a problem he can sink his teeth into."
+- Ursula</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Shark-Toothy-Terror-Lorcana-Player-430x600.jpg"
+		rarity="Special"
+		uuid="IQDT-014"
+	>IQDT</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Tamatoa - Grabby Crab</name>
+	<text>Pick One! - When you play this character, the opposing players together choose an item or location of theirs and banish it.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Entangled • Villain</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Strength>3</Strength>
+		<pt>3/6</pt>
+		<Willpower>6</Willpower>
+		<Lore>2</Lore>
+		<Artist>Luigi Aimé</Artist>
+		<Franchise>Moana</Franchise>
+		<Flavor>"It’s called a distraction, angelfish. Look it up."
+- Ursula</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Tamatoa-Grabby-Crab-Lorcana-Player-430x600.jpg"
+		rarity="Special"
+		uuid="IQDT-015"
+	>IQDT</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Triton's Daughters - Discordant Chorus</name>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Entangled • Ally • Princess</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>0</manacost>
+		<Strength>2</Strength>
+		<pt>2/3</pt>
+		<Willpower>3</Willpower>
+		<Lore>1</Lore>
+		<Artist>Jenna Gray</Artist>
+		<Franchise>The Little Mermaid</Franchise>
+		<Flavor>"Perhaps I should have taken their voices, too. Well, there’s always time for that later."
+- Ursula</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Tritons-Daughters-Discordant-Chorus-Lorcana-Player-430x600.jpg"
+		rarity="Special"
+		uuid="IQDT-016"
+	>IQDT</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Capsize.</name> <!-- This (.) is intentional -->
+	<text>If you have 6⬡ or less, put the top 3 cards of your deck into your inkwell facedown.
+If you have 7⬡ or more, each opposing player chooses and banishes one of their characters.</text>
+	<prop>
+		<maintype>Action</maintype>
+		<type>Action</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>3</manacost>
+		<Artist>Javier Salas</Artist>
+		<Franchise>Lorcana • The Little Mermaid • Peter Pan</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Capsize-Lorcana-Player.jpg"
+		rarity="Special"
+		uuid="IQDT-017"
+	>IQDT</set>
+	<tablerow>3</tablerow>
+</card>
+<card>
+	<name>Choppy Waters</name>
+	<text>Deal 2 damage to the highest cost character each opposing player has in play. (If there’s a tie, the opposing player chooses from the tied characters.)</text>
+	<prop>
+		<maintype>Action</maintype>
+		<type>Action</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>3</manacost>
+		<Artist>Ilaria Sposetti</Artist>
+		<Franchise>Lorcana</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Choppy-Waters-Lorcana-Player-430x600.jpg"
+		rarity="Special"
+		uuid="IQDT-018"
+	>IQDT</set>
+	<tablerow>3</tablerow>
+</card>
+<card>
+	<name>Crushing Wave</name>
+	<text>Deal 2 damage to each opposing character</text>
+	<prop>
+		<maintype>Action</maintype>
+		<type>Action</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Artist>Luca Pisanu</Artist>
+		<Franchise>Lorcana</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Crushing-Wave-Lorcana-Player.jpg"
+		rarity="Special"
+		uuid="IQDT-019"
+	>IQDT</set>
+	<tablerow>3</tablerow>
+</card>
+<card>
+	<name>Entangling Magic</name>
+	<text>Each opposing player discards a card. Then, put this card into your inkwell facedown.</text>
+	<prop>
+		<maintype>Action</maintype>
+		<type>Action</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>2</manacost>
+		<Artist>Luca Pisanu</Artist>
+		<Franchise>Lorcana</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Entangling-Magic-Lorcana-Player-430x600.jpg"
+		rarity="Special"
+		uuid="IQDT-020"
+	>IQDT</set>
+	<tablerow>3</tablerow>
+</card>
+<card>
+	<name>Fortunate Hit</name>
+	<text>The opposing players together choose one of your items and banish it.</text>
+	<prop>
+		<maintype>Action</maintype>
+		<type>Action</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>0</manacost>
+		<Artist>Luigi Aimé</Artist>
+		<Franchise>The Little Mermaid</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Fortunate-Hit-Lorcana-Player-430x600.jpg"
+		rarity="Special"
+		uuid="IQDT-021"
+	>IQDT</set>
+	<tablerow>3</tablerow>
+</card>
+<card>
+	<name>Lash Out</name>
+	<text>Each opposing player chooses and banishes one of their characters.</text>
+	<prop>
+		<maintype>Action</maintype>
+		<type>Action</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>2</manacost>
+		<Artist>Luigi Aimé</Artist>
+		<Franchise>The Little Mermaid</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Lash-Out-Lorcana-Player.jpg"
+		rarity="Special"
+		uuid="IQDT-022"
+	>IQDT</set>
+	<tablerow>3</tablerow>
+</card>
+<card>
+	<name>Lightning Storm</name>
+	<text>Each opposing player loses 3 lore.</text>
+	<prop>
+		<maintype>Action</maintype>
+		<type>Action</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>6</manacost>
+		<Artist>Mario Oscar Gabriele</Artist>
+		<Franchise>Lorcana • The Little Mermaid</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Lightning-Storm-Lorcana-Player-430x600.jpg"
+		rarity="Special"
+		uuid="IQDT-023"
+	>IQDT</set>
+	<tablerow>3</tablerow>
+</card>
+<card>
+	<name>Riptide</name>
+	<text>Banish all opposing characters, items, and locations with cost 2 or less.</text>
+	<prop>
+		<maintype>Action</maintype>
+		<type>Action</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>6</manacost>
+		<Artist>Ilaria Sposetti</Artist>
+		<Franchise>Mickey Mouse &amp; Friends</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Riptide-Lorcana-Player-430x600.jpg"
+		rarity="Special"
+		uuid="IQDT-024"
+	>IQDT</set>
+	<tablerow>3</tablerow>
+</card>
+<card>
+	<name>Tentacle Swipe</name>
+	<text>Deal 1 damage to each opposing character. Then, place this card into your inkwell facedown.</text>
+	<prop>
+		<maintype>Action</maintype>
+		<type>Action</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>2</manacost>
+		<Artist>Mario Oscar Gabriele</Artist>
+		<Franchise>The Little Mermaid</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/05/Tentacle-Swipe-Lorcana-Player.jpg"
+		rarity="Special"
+		uuid="IQDT-025"
+	>IQDT</set>
+	<tablerow>3</tablerow>
+</card>
+<card>
+	<name>Tsunami</name>
+	<text>Banish all opposing characters.</text>
+	<prop>
+		<maintype>Action</maintype>
+		<type>Action</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>7</manacost>
+		<Artist>Luigi Aimé</Artist>
+		<Franchise>Lorcana</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Tsunami-Lorcana-Player.jpg"
+		rarity="Special"
+		uuid="IQDT-026"
+	>IQDT</set>
+	<tablerow>3</tablerow>
+</card>
+<card>
+	<name>Typhoon</name>
+	<text>Return all opposing exerted characters to their players’ hands.</text>
+	<prop>
+		<maintype>Action</maintype>
+		<type>Action</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>5</manacost>
+		<Artist>Leonardo Giammichele</Artist>
+		<Franchise>Lorcana</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Typhoon-Lorcana-Player-430x600.jpg"
+		rarity="Special"
+		uuid="IQDT-027"
+	>IQDT</set>
+	<tablerow>3</tablerow>
+</card>
+<card>
+	<name>Whirlpool</name>
+	<text>Exert all opposing characters. They can’t ready at the start of the their next turn.</text>
+	<prop>
+		<maintype>Action</maintype>
+		<type>Action</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Artist>Veronica Di Lorenzo / Livio Cacciatore</Artist>
+		<Franchise>Lorcana</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Whirlpool-Lorcana-Player-430x600.jpg"
+		rarity="Special"
+		uuid="IQDT-028"
+	>IQDT</set>
+	<tablerow>3</tablerow>
+</card>		
+<card>
+	<name>The Hexwell Crown</name>
+	<text>Perks of Power - ↷ - Draw a card.</text>
+	<prop>
+		<maintype>Item</maintype>
+		<type>Item</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>3</manacost>
+		<Artist>Veronica Di Lorenzo / Livio Cacciatore</Artist>
+		<Franchise>Lorcana</Franchise>
+		<Flavor>When she placed it on her head, Ursula felt a rush of power as the crown unlocked a deeper magic.</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/The-Hexwell-Crown-Lorcana-Player.jpg"
+		rarity="Special"
+		uuid="IQDT-029"
+	>IQDT</set>
+	<tablerow>1</tablerow>
+</card>
+<card>
+	<name>Ursula's Contract</name>
+	<text>Sweeten the Deal - Opposing players can’t use battleground abilities.
+Minor Stipulation - At the start of your turn, banish this item and gain 3 lore.</text>
+	<prop>
+		<maintype>Item</maintype>
+		<type>Item</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>0</manacost>
+		<Artist>Luca Pisanu</Artist>
+		<Franchise>The Little Mermaid</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/05/Ursulas-Contract-Lorcana-Player-430x600.jpg"
+		rarity="Special"
+		uuid="IQDT-030"
+	>IQDT</set>
+	<tablerow>1</tablerow>
+</card>
+<card>
+	<name>Ursula's Stolen Trident</name>
+	<text>It’s My Power Now - ↷ - Gain 1 lore.</text>
+	<prop>
+		<maintype>Item</maintype>
+		<type>Item</type>
+		<colors>Entangled</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>0</manacost>
+		<Artist>Jonathan Livslyst</Artist>
+		<Franchise>The Little Mermaid</Franchise>
+		<Flavor>"With my magic, the trident has powers the foolish sea king never imagined!"
+- Ursula</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Ursulas-Stolen-Trident-Lorcana-Player.jpg"
+		rarity="Special"
+		uuid="IQDT-031"
+	>IQDT</set>
+	<tablerow>1</tablerow>
+</card>
+</cards>
+</cockatrice_carddatabase>

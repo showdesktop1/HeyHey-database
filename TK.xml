@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd">
+    <info>
+        <author>Cockatrice 2.9.0 (2023-09-14)</author>
+        <createdAt>2024-06-20T05:12:24Z</createdAt>
+        <sourceUrl>unknown</sourceUrl>
+        <sourceVersion>unknown</sourceVersion>
+    </info>
+    <sets>
+        <set>
+            <name>TK</name>
+            <longname>Dummy set containing tokens</longname>
+            <settype>Tokens</settype>
+            <releasedate></releasedate>
+        </set>
+    </sets>
+    <cards>
+        <card>
+            <name>INK</name>
+            <text></text>
+            <token>1</token>
+            <prop>
+                <colors></colors>
+                <type>Token</type>
+            </prop>
+            <set>TK</set>
+            <tablerow>-1</tablerow>
+        </card>
+    </cards>
+</cockatrice_carddatabase>
