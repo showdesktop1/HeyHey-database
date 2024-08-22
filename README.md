@@ -5,7 +5,7 @@
 | Date       | Version (Newest in Bold) | Description                                                            |
 |------------|--------------------------|------------------------------------------------------------------------|
 | 2024.07.08 | Core 1.0                 | First Release; Sets 1-4                                                |
-| 2024.07.10 | **Core 1.1**             | Complete Re-do to fix comma errors, and retain some original API data  |
+| 2024.07.10 | Core 1.1                 | Complete Re-do to fix comma errors, and retain some original API data  |
 | 2024.07.11 | Spoilers 1.0             | First Release; 32 cards                                                |
 | 2024.07.11 | **Games 1.0**            | First Release; Illumineer’s Quest: Deep Trouble                        |
 | 2024.07.12 | Promos 1.0               | First Release; 46 cards                                                |
