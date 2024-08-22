@@ -1,0 +1,1427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+<!-- 
+
+Card Images from lorcanaplayer.com, card data inputted by [Kage | crusadercards@gmail.com]
+
+Challenge Promos		5	(5 cards of 5 numbered)
+Promo Set 1				39	(39 cards of 40 numbered, 1 is Challenge Promo)
+Promo Set 2				7	(7 cards of 7 numbered)
+D23 2024 Promos			6	(6 cards of 6 numbered), Poor image quality
+TOTAL CARDS:			57
+
+Challenge Promo			5
+D23 Collection			6
+D23 Expo				7
+Disney100				6
+Event Promo				6
+gamescom 2023 Promo		1
+Gen Con 2023 Promo		1
+League Promo			19
+Seasonal Promo			1
+Set Championship Promo	3
+Spiel Essen Promo		1
+Villainous Promo		1
+
+-->
+<sets>
+<set>
+	<name>PRO</name>
+	<longname>Promotional Cards</longname>
+	<settype>Lorcana Promos</settype>
+	<releasedate>2023-08-18</releasedate>
+</set>
+</sets>
+<cards>
+<!-- Challenge Promos --> 
+<card>
+	<name>Dragon Fire (Challenge Promo)</name>
+	<text>Banish chosen character</text>
+	<prop>
+		<maintype>Action</maintype>
+		<type>Action</type>
+		<colors>Ruby</colors>
+		<Inkable>No</Inkable>
+		<manacost>5</manacost>
+		<Artist>Luis Huerta</Artist>
+		<Franchise>Sleeping Beauty</Franchise>
+		<Flavor>Rare is the hero who can withstand a dragon's wrath.</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/03/Dragon-Fire-Challenge-Promo-Lorcana-Player-286x400.jpg"
+		rarity="Promo"
+		uuid="TFC-130-P1-25-CH1-01"
+	>PRO</set>
+	<tablerow>3</tablerow>
+</card>
+<card>
+	<name>Let It Go (Challenge Promo)</name>
+	<text>(A character with cost 5 or more can ↷ to sing this song for free.)
+Put chosen character into their player's inkwell facedown and exerted.</text>
+	<prop>
+		<maintype>Action</maintype>
+		<type>Action • Song</type>
+		<colors>Sapphire</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>5</manacost>
+		<Artist>Milica Celikovic</Artist>
+		<Franchise>Frozen</Franchise>
+		<Flavor>It's time to see what I can do 
+To test the limits and break through</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/03/Let-It-Go-Challenge-Promo-Lorcana-Player-286x400.jpg"
+		rarity="Promo"
+		uuid="TFC-163-P1-41-CH1-02"
+	>PRO</set>
+	<tablerow>3</tablerow>
+</card>
+<card>
+	<name>Cinderella - Stouthearted (Challenge Promo)</name>
+	<text>Shift 5 (You may pay 5⬡ to play this on top of one of your characters named Cinderella.)\r Resist +2 (Damage dealt to this character is reduced by 2.)\r The Singing Sword: Whenever you play a song, this character may challenge ready characters this turn.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Hero • Princess • Knight</type>
+		<colors>Steel</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>7</manacost>
+		<Abilities>Shift • Resist</Abilities>
+		<Strength>5</Strength>
+		<pt>5/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>3</Lore>
+		<Artist>Alice Pisoni</Artist>
+		<Franchise>Cinderella</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/03/Cinderella-Stouthearted-Challenge-Promo-Lorcana-Player-286x400.jpg"
+		rarity="Promo"
+		uuid="ROF-177-P1-42-CH1-03"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Rapunzel - Gifted with Healing (Challenge Promo)</name>
+	<text>Gleam and Glow: When you play this character, remove up to 3 damage from one of your characters. Draw a card for each 1 damage removed this way.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero • Princess</type>
+		<colors>Amber</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Strength>1</Strength>
+		<pt>1/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>2</Lore>
+		<Artist>Grace Tran</Artist>
+		<Franchise>Tangled</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/03/Rapunzel-Gifted-With-Healing-Challenge-Promo-Lorcana-Player-286x400.jpg"
+		rarity="Promo"
+		uuid="TFC-018-P1-43-CH1-04"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Mickey Mouse - Brave Little Tailor (Challenge Promo)</name>
+	<text>Evasive (Only characters with Evasive can challenge this character.)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Hero</type>
+		<colors>Ruby</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>8</manacost>
+		<Abilities>Evasive</Abilities>
+		<Strength>5</Strength>
+		<pt>5/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>4</Lore>
+		<Artist>Nicolas Kole</Artist>
+		<Franchise>Mickey Mouse &amp; Friends</Franchise>
+		<Flavor>When defeat looms and victory hangs by a thread, a hero bolts to the rescue, patching things up through shear determination.</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Mickey-Mouse-Brave-Little-Tailor-Serialized-Challenge-Prize-286x400.jpg"
+		rarity="Promo"
+		uuid="TFC-115-CH1-05"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<!-- Promo Set 1 --> 
+<card>
+	<name>Mickey Mouse - Brave Little Tailor (D23 Expo)</name>
+	<text>Evasive (Only characters with Evasive can challenge this character.)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Hero</type>
+		<colors>Ruby</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>8</manacost>
+		<Abilities>Evasive</Abilities>
+		<Strength>5</Strength>
+		<pt>5/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>4</Lore>
+		<Artist>Nicolas Kole</Artist>
+		<Franchise>Mickey Mouse &amp; Friends</Franchise>
+		<Flavor>When defeat looms and victory hangs by a thread, a hero bolts to the rescue, patching things up through shear determination.</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/03/Mickey-Mouse-Brave-Little-Tailor-D23-Lorcana-Player-287x400.jpg"
+		rarity="Promo"
+		uuid="TFC-115-P1-01"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Stitch - Rock Star (D23 Expo)</name>
+	<text>Shift 4 (You may pay 4⬡ to play this on top of one of your characters named Stitch.) 
+Adoring Fans: Whenever you play a character with cost 2 or less, you may exert them to draw a card.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Hero • Alien</type>
+		<colors>Amber</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>6</manacost>
+		<Abilities>Shift</Abilities>
+		<Strength>3</Strength>
+		<pt>3/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>3</Lore>
+		<Artist>Simangaliso Sibaya</Artist>
+		<Franchise>Lilo &amp; Stitch</Franchise>
+		<Flavor>The best part about a beachside concert is that there's always room for one more.</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/03/Stitch-Rock-Star-D23-Lorcana-Player-430x600.jpg"
+		rarity="Promo"
+		uuid="TFC-023-P1-02"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Elsa - Snow Queen (D23 Expo)</name>
+	<text>Freeze: ↷ - Exert chosen opposing character.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Hero • Queen • Sorcerer</type>
+		<colors>Amethyst</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>3</manacost>
+		<Strength>2</Strength>
+		<pt>2/3</pt>
+		<Willpower>3</Willpower>
+		<Lore>1</Lore>
+		<Artist>Nicholas Kole</Artist>
+		<Franchise>Frozen</Franchise>
+		<Flavor>Recreated by magical ink, Elsa found herself in an entirely new world. Fortunately, ice works the same way everywhere.</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/03/Elsa-Snow-Queen-D23-Lorcana-Player-287x400.jpg"
+		rarity="Promo"
+		uuid="TFC-041-P1-03"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Cruella De Vil - Miserable as Usual (D23 Expo)</name>
+	<text>You'll Be Sorry!: When this character is challenged and banished, you may return chosen character to their player's hand.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Villain</type>
+		<colors>Emerald</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>2</manacost>
+		<Strength>1</Strength>
+		<pt>1/3</pt>
+		<Willpower>3</Willpower>
+		<Lore>1</Lore>
+		<Artist>Nicholas Kole</Artist>
+		<Franchise>101 Dalmatians</Franchise>
+		<Flavor>When she stops by, misery is company.</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/03/Cruella-De-Vil-Miserable-As-Usual-D23-Lorcana-Player-430x600.jpg"
+		rarity="Promo"
+		uuid="TFC-072-P1-04"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Maleficent - Monstrous Dragon (D23 Expo)</name>
+	<text>Dragon Fire: When you play this character, you may banish chosen character.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Villain • Dragon</type>
+		<colors>Ruby</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>9</manacost>
+		<Strength>7</Strength>
+		<pt>7/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>2</Lore>
+		<Artist>Luis Huerta</Artist>
+		<Franchise>Sleeping Beauty</Franchise>
+		<Flavor>The ninth Rule of Villainy: When all else fails, turn into a dragon.</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/03/Maleficent-Monstrous-Dragon-D23-Lorcana-Player-430x600.jpg"
+		rarity="Promo"
+		uuid="TFC-113-P1-05"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Robin Hood - Unrivaled Archer (D23 Expo)</name>
+	<text>Feed the Poor: When you play this character, if an opponent has more cards in their hand than you, draw a card.
+Good Shot: During your turn, this character gains Evasive. (They can challenge characters with Evasive.)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero</type>
+		<colors>Sapphire</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>6</manacost>
+		<Abilities>Evasive</Abilities>
+		<Strength>4</Strength>
+		<pt>4/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>2</Lore>
+		<Artist>John Loren</Artist>
+		<Franchise>Robin Hood</Franchise>
+		<Flavor>"We never rob. We just sort of borrow a bit from those who can afford it."</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/03/Robin-Hood-Unrivaled-D23-Lorcana-Player-430x600.jpg"
+		rarity="Promo"
+		uuid="TFC-157-P1-06"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Captain Hook - Forceful Duelist (D23 Expo)</name>
+	<text>Challenger +2 (When challenging, this character gets +2 ※.)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Villain • Pirate • Captain</type>
+		<colors>Steel</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>1</manacost>
+		<Abilities>Challenger</Abilities>
+		<Strength>1</Strength>
+		<pt>1/2</pt>
+		<Willpower>2</Willpower>
+		<Lore>1</Lore>
+		<Artist>Marcel Berg</Artist>
+		<Franchise>Peter Pan</Franchise>
+		<Flavor>He loves to make light of a foe's predicament</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/03/Captain-Hook-Forceful-Duelist-D23-Lorcana-Player-430x600.jpg"
+		rarity="Promo"
+		uuid="TFC-174-P1-07"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Mickey Mouse - Detective (League Promo)</name>
+	<text>Get a Clue: When you play this character, you may put the top card of your deck into your inkwell facedown and exerted.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Hero • Detective</type>
+		<colors>Sapphire</colors>
+		<Inkable>No</Inkable>
+		<manacost>3</manacost>
+		<Strength>1</Strength>
+		<pt>1/3</pt>
+		<Willpower>3</Willpower>
+		<Lore>1</Lore>
+		<Artist>Jared Nickerl</Artist>
+		<Franchise>Jared Nickerl</Franchise>
+		<Flavor>Wherever the seaweed had come from, Mickey was sure of one thing: something fishy was going on.</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/04/Mickey-Mouse-Detective-League-Promo-App-Lorcana-Player-430x600.jpg"
+		rarity="Promo"
+		uuid="TFC-154-P1-08"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>HeiHei - Boat Snack (League Promo)</name>
+	<text>Support (Whenever this character quests, you may add their ※ to another chosen character's ※ this turn.)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Ally</type>
+		<colors>Amber</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>1</manacost>
+		<Abilities>Support</Abilities>
+		<Strength>1</Strength>
+		<pt>1/2</pt>
+		<Willpower>2</Willpower>
+		<Lore>1</Lore>
+		<Artist>Janna Gray</Artist>
+		<Franchise>Moana</Franchise>
+		<Flavor>"Sometimes, our strengths lie beneath the surface. Far beneath, in some cases. . . ." 
+- Moana</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/04/HeiHei-Boat-Snack-League-Promo-App-Lorcana-Player-430x600.jpg"
+		rarity="Promo"
+		uuid="TFC-007=P1-09"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Yzma - Alchemist (League Promo)</name>
+	<text>You're Excused: Whenever this character quests, look at the top card of your deck. Put it on either the top or the bottom of your deck</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Villain • Sorcerer</type>
+		<colors>Amethyst</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>2</manacost>
+		<Strength>2</Strength>
+		<pt>2/2</pt>
+		<Willpower>2</Willpower>
+		<Lore>1</Lore>
+		<Artist>Hadjie Joos</Artist>
+		<Franchise>The Emperor's New Groove</Franchise>
+		<Flavor>"When I want your opinion, I will give it to you!"</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/04/Yzma-Alchemist-League-Promo-App-Lorcana-Player-430x600.jpg"
+		rarity="Promo"
+		uuid="TFC-060-P1-10"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Mickey Mouse - Musketeer (Gen Con 2023 Promo)</name>
+	<text>Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)
+All For One: Your other musketeer character get +1※.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Hero • Musketeer</type>
+		<colors>Steel</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>6</manacost>
+		<Abilities>Bodyguard</Abilities>
+		<Strength>2</Strength>
+		<pt>2/7</pt>
+		<Willpower>7</Willpower>
+		<Lore>2</Lore>
+		<Artist>Jochem Van Gool</Artist>
+		<Franchise>Mickey, Donald, Goofy: The Three Musketeers</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/08/Mickey-Mouse-Musketeer-Event-Promo-App-Lorcana-Player-430x600.jpg"
+		rarity="Promo"
+		uuid="TFC-186-P1-11"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Goofy - Musketeer (gamescom 2023 Promo)</name>
+	<text>Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)
+And Two For Tea!: When you play this character, you may remove up to 2 damage from each of your Musketeer characters.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Hero • Musketeer</type>
+		<colors>Amber</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>5</manacost>
+		<Abilities>Bodyguard</Abilities>
+		<Strength>3</Strength>
+		<pt>3/6</pt>
+		<Willpower>6</Willpower>
+		<Lore>1</Lore>
+		<Artist>Jochem van Gool</Artist>
+		<Franchise>Mickey, Donald, Goofy: The Three Musketeers</Franchise>
+		<Flavor>"En Gawrsh!"</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/06/Goofy-Musketeer-Event-Promo-App-Lorcana-Player-287x400.jpg"
+		rarity="Promo"
+		uuid="TFC-004-P1-12"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Donald Duck - Musketeer (Spiel Essen Promo)</name>
+	<text>Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.) 
+Stay Alert!: During your turn, your Musketeer characters gain Evasive. (They can challenge characters with Evasive.)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Hero • Musketeer</type>
+		<colors>Steel</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Abilities>Bodyguard • Evasive</Abilities>
+		<Strength>2</Strength>
+		<pt>2/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>1</Lore>
+		<Artist>Dav Augereau</Artist>
+		<Franchise>Mickey, Donald, Goofy: The Three Musketeers</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/10/Donald-Duck-Musketeer-Event-Promo-App-Lorcana-Player-430x600.jpg"
+		rarity="Promo"
+		uuid="TFC-177-P1-13"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Cinderella - Knight in Training (League Promo)</name>
+	<text>Have Courage: When you play this character, you may draw a card, then choose and discard a card.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Hero • Princess • Knight</type>
+		<colors>Steel</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>2</manacost>
+		<Strength>2</Strength>
+		<pt>2/2</pt>
+		<Willpower>2</Willpower>
+		<Lore>1</Lore>
+		<Artist>Grace Tran</Artist>
+		<Franchise>Cinderella</Franchise>
+		<Flavor>She's always had the heart of a champion–now she'll have the skills, too.</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/09/Cinderella-Knight-in-Training-Low-Quality-Lorcana-Player-430x600.jpg"
+		rarity="Promo"
+		uuid="ROF-176-P1-14"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Bucky - Squirrel Squeak Tutor (League Promo)</name>
+	<text>Ward (Opponents can't choose this character except to challenge.)
+Squeak: Whenever you play a Floodborn character, each opponent chooses and discards a card.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Ally</type>
+		<colors>Emerald</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>2</manacost>
+		<Abilities>Ward</Abilities>
+		<Strength>1</Strength>
+		<pt>1/1</pt>
+		<Willpower>1</Willpower>
+		<Lore>1</Lore>
+		<Artist>Alex Accorsi</Artist>
+		<Franchise></Franchise>
+		<Flavor>"There's a lot of nuance to squirrel."
+- Kronk</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/09/Bucky-Squirrel-Squeak-Tutor-League-Promo-Lorcana-Player-430x600.jpg"
+		rarity="Promo"
+		uuid="ROF-073=P1-15"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Minnie Mouse - Wide-Eyed Diver (League Promo)</name>
+	<text>Shift 2 (You may pay 2⬡ to play this on top of one of your characters named Minnie Mouse.)
+Evasive (Only Characters with Evasive can challenge this character.)
+Undersea Adventure: Whenever you play a second action in a turn, this character gets +2 ◆ this turn.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Hero</type>
+		<colors>Ruby</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Abilities>Shift • Evasive</Abilities>
+		<Strength>2</Strength>
+		<pt>2/3</pt>
+		<Willpower>3</Willpower>
+		<Lore>1</Lore>
+		<Artist>Adam Fenton</Artist>
+		<Franchise>Mickey Mouse &amp; Friends</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/09/Minnie-Mouse-Wide-Eyed-Diver-League-Promo-Lorcana-Player-430x600.jpg"
+		rarity="Promo"
+		uuid="ROF-114-P1-16"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Robin Hood - Capable Fighter (League Promo)</name>
+	<text>Skirmish: ↷ - Deal 1 damage to chosen character.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Hero</type>
+		<colors>Steel</colors>
+		<Inkable>No</Inkable>
+		<manacost>2</manacost>
+		<Strength>1</Strength>
+		<pt>1/3</pt>
+		<Willpower>3</Willpower>
+		<Lore>1</Lore>
+		<Artist>Noukah</Artist>
+		<Franchise>Robin Hood</Franchise>
+		<Flavor>"Capable? You don't know the half of it."
+- Little John</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/09/Robin-Hood-Capable-Fighter-League-Promo-Lorcana-Player-430x600.jpg"
+		rarity="Promo"
+		uuid="ROF-193-P1-17"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Mickey Mouse - Friendly Face (Disney100)</name>
+	<text>Glad You're Here!: Whenever this character quests, you pay 3⬡ less for the next character you play this turn.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero</type>
+		<colors>Amber</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>6</manacost>
+		<Strength>1</Strength>
+		<pt>1/6</pt>
+		<Willpower>6</Willpower>
+		<Lore>3</Lore>
+		<Artist>Veronica Di Lorenzo / Livio Cacciatore</Artist>
+		<Franchise>Mickey Mouse &amp; Friends</Franchise>
+		<Flavor>"Come on in - there's lots to explore."</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/09/Mickey-Mouse-Friendly-Face-Disney100-Lorcana-Player-430x600.jpg"
+		rarity="Promo"
+		uuid="ROF-013-P1-18"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Elsa - Gloves Off (Disney100)</name>
+	<text>Challenger +3 (While challenging, this character gets +3※.)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero • Queen • Sorcerer</type>
+		<colors>Amethyst</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Abilities>Challenger</Abilities>
+		<Strength>3</Strength>
+		<pt>3/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>1</Lore>
+		<Artist>Cristian Romero</Artist>
+		<Franchise>Frozen</Franchise>
+		<Flavor>The power of ice may not stop the flood, but it will help protect Lorcana.</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/09/Elsa-Gloves-Off-Disney100-Lorcana-Player-430x600.jpg"
+		rarity="Promo"
+		uuid="ROF-039-P1-19"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Genie - Powers Unleashed (Disney100)</name>
+	<text>Shift 6 (You may pay 6⬡ to play this on top of one of your characters named Genie.) 
+Evasive (Only characters with Evasive can challenge this character.) 
+Phenomenal Cosmic Power!: Whenever this character quests, you may play an action with cost 5 or less for free.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Hero</type>
+		<colors>Emerald</colors>
+		<Inkable>No</Inkable>
+		<manacost>8</manacost>
+		<Abilities>Shift • Evasive</Abilities>
+		<Strength>3</Strength>
+		<pt>3/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>3</Lore>
+		<Artist>Javier Salas</Artist>
+		<Franchise>Aladdin</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/09/Genie-Powers-Unleashed-Disney100-Lorcana-Player-430x600.jpg"
+		rarity="Promo"
+		uuid="TFC-076-P1-20"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Stitch - Abomination (Disney100)</name>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero • Alien</type>
+		<colors>Ruby</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>6</manacost>
+		<Strength>4</Strength>
+		<pt>4/6</pt>
+		<Willpower>6</Willpower>
+		<Lore>3</Lore>
+		<Artist>Bill Robinson</Artist>
+		<Franchise>Lilo &amp; Stitch</Franchise>
+		<Flavor>"His destructive programming is taking effect. He will be irresistibly drawn to large cities, where he will back up sewers, reverse street signs, and steal everyone's left shoe." 
+- Jumba Jookiba</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/09/Stitch-Abomination-Disney100-Lorcana-Player-430x600.jpg"
+		rarity="Promo"
+		uuid="TFC-125-P1-21"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Maleficent - Uninvited (Disney100)</name>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Villain • Sorcerer</type>
+		<colors>Sapphire</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>5</manacost>
+		<Strength>3</Strength>
+		<pt>3/6</pt>
+		<Willpower>6</Willpower>
+		<Lore>3</Lore>
+		<Artist>Gaku Kumatori</Artist>
+		<Franchise>Sleeping Beauty</Franchise>
+		<Flavor>She had no invitation - and needed no introduction.</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/09/Maleficent-Uninvited-Disney100-Lorcana-Player.jpg"
+		rarity="Promo"
+		uuid="TFC-151-P1-22"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Maui - Demigod (Disney100)</name>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero • Deity</type>
+		<colors>Steel</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>8</manacost>
+		<Strength>8</Strength>
+		<pt>8/8</pt>
+		<Willpower>8</Willpower>
+		<Lore>3</Lore>
+		<Artist>Isaiah Mesq</Artist>
+		<Franchise>Moana</Franchise>
+		<Flavor>When the gods gift you a boat, you take it. The boat's owner is optional.</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/09/Maui-Demigod-Disney100-Lorcana-Player-430x600.jpg"
+		rarity="Promo"
+		uuid="TFC-185-P1-23"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Gaston - Arrogant Hunter (Event Promo)</name>
+	<text>Reckless (This character can't quest and must challenge each turn if able.)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Villain</type>
+		<colors>Ruby</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>2</manacost>
+		<Abilities>Reckless</Abilities>
+		<Strength>4</Strength>
+		<pt>4/2</pt>
+		<Willpower>2</Willpower>
+		<Lore>0</Lore>
+		<Artist>Matthew Robert Davies</Artist>
+		<Franchise>Beauty and the Beast</Franchise>
+		<Flavor>It's not arrogance when you really are the best.</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/10/Gaston-Arrogant-Hunter-Event-Promo-Lorcana-Player-430x600.jpg"
+		rarity="Promo"
+		uuid="TFC-110-P1-24"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<!-- TFC-130-P1-25-CH1-01	Dragon Fire (Challenge Promo) -->
+<card>
+	<name>Kit Cloudkicker - Tough Guy (League Promo)</name>
+	<text>Skysurfing: When you play this character, you may return chosen opposing character with 2※ or less to their player's hand.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Ally</type>
+		<colors>Emerald</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>3</manacost>
+		<Strength>2</Strength>
+		<pt>2/2</pt>
+		<Willpower>2</Willpower>
+		<Lore>1</Lore>
+		<Artist>Jake Parker</Artist>
+		<Franchise>TaleSpin</Franchise>
+		<Flavor>"It's been fun, guys, but I got to be going. Yahoooo!"</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/02/Kit-Cloudkicker-Tough-Guy-League-Promo-Lorcana-Player.jpg"
+		rarity="Promo"
+		uuid="INK-077-P1-26"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Jolly Roger - Hook's Ship (League Promo)</name>
+	<text>Look Alive, You Swabs!: Characters gain Rush while here. (They can challenge the turn they're played.)
+All Hands On Deck!: Your Pirate characters may move here for free.</text>
+	<prop>
+		<maintype>Location</maintype>
+		<type>Location</type>
+		<colors>Ruby</colors>
+		<Inkable>No</Inkable>
+		<manacost>1</manacost>
+		<Abilities>Rush</Abilities>
+		<Move_Cost>2</Move_Cost>
+		<pt>2/5</pt>
+		<Willpower>5</Willpower>
+		<Artist>Nicolas Ky</Artist>
+		<Franchise>Peter Pan</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/02/Jolly-Roger-Hooks-Ship-League-Promo-Lorcana-Player-rotated.jpg"
+		rarity="Promo"
+		uuid="INK-135-P1-27"
+	>PRO</set>
+	<tablerow>1</tablerow>
+	<cipt>1</cipt>
+</card>
+<card>
+	<name>How Far I'll Go (League Promo)</name>
+	<text>(A character with cost 4 or more can ↷ to sing this song for free.)
+Look at the top 2 cards of your deck. Put one into your hand and the other into your inkwell facedown and exerted.</text>
+	<prop>
+		<maintype>Action</maintype>
+		<type>Action • Song</type>
+		<colors>Sapphire</colors>
+		<Inkable>No</Inkable>
+		<manacost>4</manacost>
+		<Artist>Anna Rud, Anna Stosik</Artist>
+		<Franchise>Moana</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/02/How-Far-Ill-Go-League-Promo-Lorcana-Player-430x600.jpg"
+		rarity="Promo"
+		uuid="INK-161-P1-28"
+	>PRO</set>
+	<tablerow>3</tablerow>
+</card>
+<card>
+	<name>John Silver - Greedy Treasure Seeker (League Promo)</name>
+	<text>Chart Your Own Course: For each location you have in play, this character gains Resist +1 and gets +1◆. (Damage dealt to them is reduced by 1.)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Villain • Alien • Pirate • Captain</type>
+		<colors>Steel</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>3</manacost>
+		<Abilities>Resist</Abilities>
+		<Strength>3</Strength>
+		<pt>3/3</pt>
+		<Willpower>3</Willpower>
+		<Lore>1</Lore>
+		<Artist>Kumatori Gaku</Artist>
+		<Franchise>Treasure Planet</Franchise>
+		<Flavor>"I was never much good at games. Always hated to lose."</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/02/John-Silver-Greedy-Treasure-Seeker-League-Promo-Lorcana-Player-430x600.jpg"
+		rarity="Promo"
+		uuid="INK-176-P1-29"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Stitch - Rock Star (Set Championship Promo)</name>
+	<text>Shift 4 (You may pay 4⬡ to play this on top of one of your characters named Stitch.) 
+Adoring Fans: Whenever you play a character with cost 2 or less, you may exert them to draw a card.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Hero • Alien</type>
+		<colors>Amber</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>6</manacost>
+		<Abilities>Shift</Abilities>
+		<Strength>3</Strength>
+		<pt>3/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>3</Lore>
+		<Artist>Nicholas Kole</Artist>
+		<Franchise>Lilo &amp; Stitch</Franchise>
+		<Flavor>The best part about a beachside concert is that there's always room for one more.</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/01/Stitch-%E2%80%93-Rock-Star-%E2%80%93-Enchanted-%E2%80%93-Championship-Promo-Lorcana-Player-430x600.jpg"
+		rarity="Promo"
+		uuid="TFC-023-P1-30"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Rapunzel - Gifted Artist (Event Promo)</name>
+	<text>Shift 3 (You may pay 3⬡ to play this on top of one of your characters named Rapunzel.)
+Let Your Power Shine: Whenever you remove 1 or more damage from one of your characters, you may draw a card.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Hero • Princess</type>
+		<colors>Amber</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>5</manacost>
+		<Abilities>Shift</Abilities>
+		<Strength>0</Strength>
+		<pt>0/6</pt>
+		<Willpower>6</Willpower>
+		<Lore>2</Lore>
+		<Artist>Aubrey Archer</Artist>
+		<Franchise>Tangled</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/12/Rapunzel-Gifted-Artist-Event-Promo-Lorcana-Player-1.jpg"
+		rarity="Promo"
+		uuid="ROF-019-P1-31"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Pinocchio - Talkative Puppet (Event Promo)</name>
+	<text>Telling Lies: When you play this character, you may exert chosen opposing character.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero</type>
+		<colors>Amethyst</colors>
+		<Inkable>No</Inkable>
+		<manacost>2</manacost>
+		<Strength>1</Strength>
+		<pt>1/1</pt>
+		<Willpower>1</Willpower>
+		<Lore>1</Lore>
+		<Artist>Juan Diego Leon</Artist>
+		<Franchise>Pinocchio</Franchise>
+		<Flavor>"A lie keeps growing and growing until it's as plain as the nose on your face."
+- Blue Fairy</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/12/Pinocchio-Talkative-Puppet-Event-Promo-Lorcana-Player-1-430x600.jpg"
+		rarity="Promo"
+		uuid="ROF-058-P1-32"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Four Dozen Eggs (Event Promo)</name>
+	<text>(A character with cost 3 or more can ↷ to sing this song for free)
+Your characters gain Resist +2 until the start of your next turn. (Damage dealt to them is reduced by 2.)</text>
+	<prop>
+		<maintype>Action</maintype>
+		<type>Action • Song</type>
+		<colors>Sapphire</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Abilities>Resist</Abilities>
+		<Artist>Jochem van Gool</Artist>
+		<Franchise>Beauty and the Beast</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2023/12/Four-Dozen-Eggs-Event-Promo-Lorcana-Player-1-430x600.jpg"
+		rarity="Promo"
+		uuid="ROF-163-P1-33"
+	>PRO</set>
+	<tablerow>3</tablerow>
+</card>
+<card>
+	<name>Mickey Mouse - Leader of the Band (League Promo)</name>
+	<text>Support (Whenever this character quests, you may add their ※ to another chosen character's ※ this turn.)
+Strike Up the Music: When you play this character, chosen character gains Support this turn.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero</type>
+		<colors>Amber</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Abilities>Support</Abilities>
+		<Strength>2</Strength>
+		<pt>2/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>1</Lore>
+		<Artist>Filipe Laurentino</Artist>
+		<Franchise>Disney Classics</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/05/Mickey-Mouse-Leader-of-the-Band-League-Promo-Lorcana-Player-429x600.jpg"
+		rarity="Promo"
+		uuid="URS-015-P1-34"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Ursula's Lair - Eye of the Storm (League Promo)</name>
+	<text>Slippery Halls: Whenever a character is banished in a challenge while here, you may return them to your hand.
+Seat of Power: Characters named Ursula get +1◆ while here.</text>
+	<prop>
+		<maintype>Location</maintype>
+		<type>Location</type>
+		<colors>Amethyst</colors>
+		<Inkable>No</Inkable>
+		<manacost>3</manacost>
+		<Move_Cost>2</Move_Cost>
+		<pt>2/6</pt>
+		<Willpower>6</Willpower>
+		<Lore>1</Lore>
+		<Artist>Eri Welli / Sam Burley</Artist>
+		<Franchise>The Little Mermaid</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/05/Ursulas-Lair-Eye-of-the-Storm-League-Promo-Lorcana-Player-600x429.jpg"
+		rarity="Promo"
+		uuid="URS-068-P1-35"
+	>PRO</set>
+	<tablerow>1</tablerow>
+	<cipt>1</cipt>
+</card>
+<card>
+	<name>Hidden Inkcaster (League Promo)</name>
+	<text>Fresh Ink: When you play this item, draw a card.
+Unexpected Treasure: All cards in your hand count as having ⏣.</text>
+	<prop>
+		<maintype>Item</maintype>
+		<type>Item</type>
+		<colors>Emerald</colors>
+		<Inkable>No</Inkable>
+		<manacost>2</manacost>
+		<Artist>Adam Fenton</Artist>
+		<Franchise>Lorcana</Franchise>
+		<Flavor>"It looks like it's been here forever."
+- Flounder</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/05/Hidden-Inkcaster-League-Promo-Lorcana-Player.jpg"
+		rarity="Promo"
+		uuid="URS-098-P1-36"
+	>PRO</set>
+	<tablerow>1</tablerow>
+</card>
+<card>
+	<name>Mulan - Enemy of Entanglement (League Promo)</name>
+	<text>Time To Shine: Whenever you play an action, this character gets +2※ this turn.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero • Princess</type>
+		<colors>Ruby</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>2</manacost>
+		<Strength>1</Strength>
+		<pt>1/3</pt>
+		<Willpower>3</Willpower>
+		<Lore>1</Lore>
+		<Artist>Jared Mathews</Artist>
+		<Franchise>Mulan</Franchise>
+		<Flavor>Ursula's messengers fled leaving behind tendrils of dark ink.</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/05/Mulan-Enemy-of-Entanglement-League-Promo-Lorcana-Player.jpg"
+		rarity="Promo"
+		uuid="URS-115-P1-37"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Ursula - Sea Witch Queen (Set Championship Promo)</name>
+	<text>Shift 5 (You may pay 5⬡ to play this on top of one of your characters named Ursula.)
+Now I am the Ruler!: Whenever this character quests, exert chosen character.
+You'll Listen to Me!: Other characters can't exert to sing songs.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Villain • Queen • Sorcerer</type>
+		<colors>Amethyst</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>7</manacost>
+		<Abilities>Shift</Abilities>
+		<Strength>4</Strength>
+		<pt>4/7</pt>
+		<Willpower>7</Willpower>
+		<Lore>3</Lore>
+		<Artist>John Loren</Artist>
+		<Franchise>The Little Mermaid</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/03/Ursula-Sea-Witch-Queen-Set-Championship-Promo-Lorcana-Player.jpg"
+		rarity="Promo"
+		uuid="URS-058-P1-38"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Scrooge McDuck - Uncle Moneybags (Event Promo)</name>
+	<text>Treasure Rigger: Whenever this character quests, you pay 1⬡ less for the next item you play this turn.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Hero</type>
+		<colors>Sapphire</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>2</manacost>
+		<Strength>1</Strength>
+		<pt>1/3</pt>
+		<Willpower>3</Willpower>
+		<Lore>1</Lore>
+		<Artist>Stefano Zanchi</Artist>
+		<Franchise>DuckTales</Franchise>
+		<Flavor>A strange new world is the perfect place to make a strange new fortune!</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/02/Scrooge-McDuck-Uncle-Moneybags-Event-Promo-Lorcana-Player.jpg"
+		rarity="Promo"
+		uuid="INK-155-P1-39"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Flotsam &amp; Jetsam - Entangling Eels (Event Promo)</name>
+	<text>Shift: Discard 2 cards (You may discard 2 cards to play this on top of one of your characters named Flotsam or Jetsam.)
+(This character counts as being named both Flotsam and Jetsam.)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Ally</type>
+		<colors>Amethyst</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>6</manacost>
+		<Abilities>Shift</Abilities>
+		<Strength>5</Strength>
+		<pt>5/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>2</Lore>
+		<Artist>Brian Kesinger</Artist>
+		<Franchise>The Little Mermaid</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/04/Flotsam-Jetsam-Entangling-Eels-Event-Promo-Lorcana-Player-429x600.jpg"
+		rarity="Promo"
+		uuid="URS-044-P1-40"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<!-- Promo Set 2 -->
+<card>
+	<name>Prince John - Gold Lover (Villainous Promo)</name>
+	<text>Beautiful, Lovely Taxes: ↷ - Play an item from your hand or discard with cost 5 or less for free, exerted.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Villain • Prince</type>
+		<colors>Sapphire</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Strength>3</Strength>
+		<pt>3/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>1</Lore>
+		<Artist>Yuri Cameirana</Artist>
+		<Franchise>Robin Hood</Franchise>
+		<Flavor>A villainous schemer from day to night.</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Prince-John-Gold-Lover-Villainous-Art-Lorcana-Player.jpg"
+		rarity="Promo"
+		uuid="SSK-147-P2-01"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Kristoff - Reindeer Keeper (Seasonal Promo)</name>
+	<text>Song of the Herd:  For each song card in your discard, you pay 1⬡ less to play this character.
+Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Ally</type>
+		<colors>Amber</colors>
+		<Inkable>No</Inkable>
+		<manacost>9</manacost>
+		<Abilities>Bodyguard</Abilities>
+		<Strength>3</Strength>
+		<Strength>3</Strength>
+		<pt>3/7</pt>
+		<Willpower>7</Willpower>
+		<Lore>3</Lore>
+		<Artist>Jochem van Gool</Artist>
+		<Franchise>Frozen</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Kristoff-Reindeer-Keeper-Seasonal-Promo-Lorcana-Player.jpg"
+		rarity="Promo"
+		uuid="SSK-013-P2-02"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Nala - Mischievous Cub (League Promo)</name>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Ally</type>
+		<colors>Amber</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>1</manacost>
+		<Strength>0</Strength>
+		<pt>0/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>1</Lore>
+		<Artist>Shannon Hallstein</Artist>
+		<Franchise>The Lion King</Franchise>
+		<Flavor>The Lorcana Hide-and-Seek Championship was hers for the taking.</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/08/Nala-Mischievous-Cub-League-Promo-Lorcana-Player.jpg"
+		rarity="Promo"
+		uuid="SSK-002-P2-03"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Finders Keepers (League Promo)</name>
+	<text>Draw 3 cards.</text>
+	<prop>
+		<maintype>Action</maintype>
+		<type>Action</type>
+		<colors>Amethyst</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>5</manacost>
+		<Artist>Andy Estrada / Stefano Zanchi</Artist>
+		<Franchise>Aladdin</Franchise>
+		<Flavor>"Three wishes, comin' right up!"
+- Iago</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/08/Finders-Keepers-League-Promo-Lorcana-Player.jpg"
+		rarity="Promo"
+		uuid="SSK-060-P2-04"
+	>PRO</set>
+	<tablerow>3</tablerow>
+</card>
+<card>
+	<name>Chicha - Dedicated Mother (League Promo)</name>
+	<text>Support (Whenever this character quests, you may add their ※ to another chosen character's ※ this turn.)
+One on the Way: During your turn, when you put a card into your inkwell, if it's the second card you've put into your inkwell this turn, you may draw a card.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Ally</type>
+		<colors>Sapphire</colors>
+		<Inkable>No</Inkable>
+		<manacost>2</manacost>
+		<Abilities>Support</Abilities>
+		<Strength>2</Strength>
+		<pt>2/1</pt>
+		<Willpower>1</Willpower>
+		<Lore>1</Lore>
+		<Artist>Grace Tran</Artist>
+		<Franchise>The Emperor's New Groove</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/08/Chicha-Dedicated-Mother-League-Promo-Lorcana-Player.jpg"
+		rarity="Rare"
+		uuid="SSK-146-P2-05"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Stitch - Team Underdog (League Promo)</name>
+	<text>Heave Ho!: When you play this character, you may deal 2 damage to chosen character.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero • Alien</type>
+		<colors>Steel</colors>
+		<Inkable>No</Inkable>
+		<manacost>4</manacost>
+		<Strength>1</Strength>
+		<pt>1/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>1</Lore>
+		<Artist>Karen Hallion</Artist>
+		<Franchise>Lilo and Stitch</Franchise>
+		<Flavor>He's not the biggest glimmer on the team, but he still packs a wallop.</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/08/Stitch-Team-Underdog-League-Promo-Lorcana-Player.jpg"
+		rarity="Uncommon"
+		uuid="SSK-171-P2-06"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Mirabel Madrigal - Family Gatherer (Set Championship Promo)</name>
+	<text>Not Without My Family: You can’t play this character unless you have 5 or more characters in play.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero • Madrigal</type>
+		<colors>Amber</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>5</manacost>
+		<Strength>5</Strength>
+		<pt>5/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>5</Lore>
+		<Artist>Hyuna Lee</Artist>
+		<Franchise>Encanto</Franchise>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Mirabel-Madrigal-Family-Gatherer-Set-Championship-Promo-Lorcana-Player.jpg"
+		rarity="Promo" 
+		uuid="SSK-014-P2-07"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<!-- D23 2024 Promos -->
+<card>
+	<name>Mickey Mouse - Brave Little Tailor (D23 Collection)</name>
+	<text>Evasive (Only characters with Evasive can challenge this character.)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Hero</type>
+		<colors>Ruby</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>8</manacost>
+		<Abilities>Evasive</Abilities>
+		<Strength>5</Strength>
+		<pt>5/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>4</Lore>
+		<Artist>Nicolas Kole</Artist>
+		<Franchise>Mickey Mouse &amp; Friends</Franchise>
+		<Flavor>When defeat looms and victory hangs by a thread, a hero bolts to the rescue, patching things up through shear determination.</Flavor>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Mickey-Mouse-Brave-Little-Tailor-D23-Collection-LQ-Lorcana-Player.jpg"
+		rarity="Promo"
+		uuid="TFC-115-D23-01"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Cinderella - Stouthearted (D23 Collection)</name>
+	<text>Shift 5 (You may pay 5⬡ to play this on top of one of your characters named Cinderella.)
+Resist +2 (Damage dealt to this character is reduced by 2.)
+The Singing Sword: Whenever you play a song, this character may challenge ready characters this turn.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Hero • Princess • Knight</type>
+		<colors>Steel</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>7</manacost>
+		<Abilities>Shift • Resist</Abilities>
+		<Strength>5</Strength>
+		<pt>5/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>3</Lore>
+		<Artist>Grace Tran</Artist>
+		<Franchise>Cinderella</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Cinderella-Stouthearted-D23-Collection-LQ-Lorcana-Player-1.jpg"
+		rarity="Promo"
+		uuid="ROF-177-D23-02"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Ursula - Deceiver (D23 Collection)</name>
+	<text>You'll Never Even Miss It: When you play this character, chosen opponent reveals their hand and discards a song card of your choice.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Villain • Sorcerer</type>
+		<colors>Emerald</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>2</manacost>
+		<Strength>1</Strength>
+		<pt>1/3</pt>
+		<Willpower>3</Willpower>
+		<Lore>1</Lore>
+		<Artist>Lisanne Koeteeuw</Artist>
+		<Franchise>The Little Mermaid</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Ursula-Deceiver-D23-Collection-LQ-Lorcana-Player-2.jpg"
+		rarity="Promo"
+		uuid="INK-090-D23-03"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Bruno Madrigal - Undetected Uncle (D23 Collection)</name>
+	<text>Evasive (Only characters with Evasive can challenge this character.)
+You Just Have to See It: ↷ - Name a card, then reveal the top card of your deck. If it's the named card, put that card into your hand and gain 3 lore. Otherwise, put it on the top of your deck.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Ally • Madrigal</type>
+		<colors>Amethyst</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Abilities>Evasive</Abilities>
+		<Strength>3</Strength>
+		<pt>3/3</pt>
+		<Willpower>3</Willpower>
+		<Lore>1</Lore>
+		<Artist>Juan Diego Leon</Artist>
+		<Franchise>Encanto</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Bruno-Madrigal-Undetected-Uncle-D23-Collection-LQ-Lorcana-Player.jpg"
+		rarity="Promo"
+		uuid="URS-039-D23-04"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Vanellope Von Schweetz - Sugar Rush Princess (D23 Collection)</name>
+	<text>Shift 2 (You may pay 2⬡ to play this on top of one of your characters named Vanellope Von Schweetz.)
+I Hereby Decree: Whenever you play another Princess character, all opposing characters get -1※ until the start of your next turn.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Hero • Princess • Racer</type>
+		<colors>Amber</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Abilities>Shift</Abilities>
+		<Strength>2</Strength>
+		<pt>2/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>2</Lore>
+		<Artist>Vanessa Morales</Artist>
+		<Franchise>Wreck-It Ralph</Franchise>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Vanellope-Von-Schweetz-Sugar-Rush-Princess-D23-Collection-LQ-Lorcana-Player.jpg"
+		rarity="Promo" 
+		uuid="SSK-019-D23-05"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Oswald - The Lucky Rabbit - (D23 Collection)</name>
+	<text>Favorable Chance: During your turn, whenever a card is put into your inkwell, you may reveal the top card of your deck. If it’s an item card, you may play that item for free and they enter play exerted. Otherwise, put it on the bottom of your deck.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero</type>
+		<colors>Sapphire</colors>
+		<Inkable>No</Inkable>
+		<manacost>2</manacost>
+		<Strength>2</Strength>
+		<pt>2/1</pt>
+		<Willpower>1</Willpower>
+		<Lore>2</Lore>
+		<Artist>Tom Bancroft</Artist>
+		<Franchise>Mickey Mouse &amp; Friends</Franchise>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Oswald-The-Lucky-Rabbit-D23-Collection-LQ-Lorcana-Player.jpg"
+		rarity="Promo" 
+		uuid="006-???-D23-06"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+</cards>
+</cockatrice_carddatabase>
