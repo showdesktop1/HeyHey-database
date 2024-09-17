@@ -18,3 +18,4 @@
 | 2024.08.20 | **Enchanted 5.0**        | First Release; Sets 1-5; 78 cards                                      |
 | 2024.08.21 | **Core 5.0**             | Added Set 5; 204 more cards, 1020 cards total, fixed some minor errors |
 | 2024.07.24 | **Promos 1.2**           | 5 new cards added; 57 total                                            |
+| 2024.09.16 | **Spoilers 6.0**         | First Release; 32 Cards                                                |
