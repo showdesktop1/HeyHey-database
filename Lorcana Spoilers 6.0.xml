@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+<!--
+
+Set 6 (Azurite Sea) Spoilers:		32 cards from lorcanaplayer.com
+
+*Known errors related to Cockatrice's operations: 
+	Same name as an MTG card (a (.) is added behind the card name)
+
+-->
+<sets>
+<set>
+	<name>SPOIL</name>
+	<longname>Azurite Sea Spoilers</longname>
+	<settype>Lorcana Spoilers</settype>
+	<releasedate>2024-11-15</releasedate>
+</set>
+</sets>
+<cards>
+<!-- AZR-001 -->
+<!-- AZR-002 -->
+<!-- AZR-003 -->
+<!-- AZR-004 -->
+<!-- AZR-005 -->
+<card>
+	<name>Chip - Friend Indeed</name>
+	<text>DALE’S PARTNER: When you play this character, chosen character gets +1◆ this turn.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero</type>
+		<colors>Amber</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>3</manacost>
+		<Strength>3</Strength>
+		<pt>3/3</pt>
+		<Willpower>3</Willpower>
+		<Lore>1</Lore>
+		<Artist>Ron Baird</Artist>
+		<Franchise>Chip 'n Dale: Rescue Rangers</Franchise>
+		<Flavor>"Come on, Dale - this is no time for hanging around!"</Flavor>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/09/Chip-Friend-Indeed-Lorcana-Player.jpg"
+		rarity="Common" 
+		uuid="AZR-006"
+	>SET</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Dale - Friend in Need</name>
+	<text>CHIP’S PARTNER: This character enters play exerted unless you have a character named Chip in play.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero</type>
+		<colors>Amber</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>3</manacost>
+		<Strength>3</Strength>
+		<pt>3/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>2</Lore>
+		<Artist>Ron Baird</Artist>
+		<Franchise>Chip 'n Dale: Rescue Rangers</Franchise>
+		<Flavor>"But Chip, hanging around is what I do best!"</Flavor>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/09/Dale-Friend-in-Need-Lorcana-Player.jpg"
+		rarity="Common" 
+		uuid="AZR-007"
+	>SET</set>
+	<tablerow>2</tablerow>
+</card>
+<!-- AZR-008 -->
+<!-- AZR-009 -->
+<!-- AZR-010 -->
+<!-- AZR-011 -->
+<card>
+	<name>Chip - Ranger Leader</name>
+	<text>THE VALUE OF FRIENDSHIP: While you have a character named Dale in play, this character gains Support. (Whenever they quest, you may add their ※ to another chosen character’s ※ this turn.)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero</type>
+		<colors>Amber</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Abilities>Support</Abilities>
+		<Strength>3</Strength>
+		<pt>3/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>2</Lore>
+		<Artist>French Carlomagno</Artist>
+		<Franchise>Chip 'n Dale: Rescue Rangers</Franchise>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/09/Chip-Ranger-Leader-Lorcana-Player.jpg"
+		rarity="Uncommon" 
+		uuid="AZR-012"
+	>SET</set>
+	<tablerow>2</tablerow>
+</card>
+<!-- AZR-013 -->
+<!-- AZR-014 -->
+<card>
+	<name>Judy Hopps - Resourceful Rabbit</name>
+	<text>Support (Whenever this character quests, you may add their  to another chosen character’s  this turn.)
+NEED SOME HELP?: At the end of your turn, you may ready another chosen character of yours.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero</type>
+		<colors>Amber</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>6</manacost>
+		<Abilities>Support</Abilities>
+		<Strength>3</Strength>
+		<pt>3/6</pt>
+		<Willpower>6</Willpower>
+		<Lore>2</Lore>
+		<Artist>Lauren Barger</Artist>
+		<Franchise>Zootopia</Franchise>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/09/Judy-Hopps-Resourceful-Rabbit-LQ-Lorcana-Player.jpg"
+		rarity="Rare" 
+		uuid="AZR-015"
+	>SET</set>
+	<tablerow>2</tablerow>
+</card>
+<!-- AZR-016 -->
+<!-- AZR-017 -->
+<card>
+	<name>Dale - Mischievous Ranger</name>
+	<text>NUTS ABOUT PRANKS: When you play this character, you may put the top 3 cards of your deck into your discard to give chosen character -3※ until the start of your next turn.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero</type>
+		<colors>Amber</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Strength>3</Strength>
+		<pt>3/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>1</Lore>
+		<Artist>Rosa la Barbera / Livio Cacciatore</Artist>
+		<Franchise>Chip 'n Dale: Rescue Rangers</Franchise>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/09/Dale-Mischievous-Ranger-Lorcana-Player.jpg"
+		rarity="Uncommon" 
+		uuid="AZR-018"
+	>SET</set>
+	<tablerow>2</tablerow>
+</card>
+<!-- AZR-019 -->
+<!-- AZR-020 -->
+<!-- AZR-021 -->
+<!-- AZR-022 -->
+<!-- AZR-023 -->
+<!-- AZR-024 -->
+<card>
+	<name>Jim Hawkins - Honorable Pirate</name>
+	<text>Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)
+HIRE A CREW: When you play this character, look at the top 4 cards of your deck. You may reveal any number of Pirate character cards and put them into your hand. Put the rest on the bottom of your deck in any order.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Hero • Pirate • Captain</type>
+		<colors>Amber</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>7</manacost>
+		<Abilities>Bodyguard</Abilities>
+		<Strength>4</Strength>
+		<pt>4/7</pt>
+		<Willpower>7</Willpower>
+		<Lore>2</Lore>
+		<Artist>Marcel Berg</Artist>
+		<Franchise>Treasure Planet</Franchise>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/09/Jim-Hawkins-Honorable-Pirate-Lorcana-Player.jpg"
+		rarity="Super Rare" 
+		uuid="AZR-025"
+	>SET</set>
+	<tablerow>2</tablerow>
+</card>
+<!-- AZR-026 -->
+<!-- AZR-027 -->
+<!-- AZR-028 -->
+<card>
+	<name>Rescue Rangers Away!</name>
+	<text>Count the number of characters you have in play. Chosen character loses ※ equal to that number until the start of your next turn.</text>
+	<prop>
+		<maintype>Action</maintype>
+		<type>Action</type>
+		<colors>Amber</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>2</manacost>
+		<Artist>Mariana Moreno</Artist>
+		<Franchise>Chip 'n Dale: Rescue Rangers</Franchise>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/09/Rescue-Rangers-Away-Lorcana-Player.jpg"
+		rarity="Uncommon" 
+		uuid="AZR-029"
+	>SET</set>
+	<tablerow>3</tablerow>
+</card>
+<!-- AZR-030 -->
+<!-- AZR-031 -->
+<!-- AZR-032 -->
+<!-- AZR-033 -->
+<!-- AZR-034 -->
+<!-- AZR-035 -->
+<!-- AZR-036 -->
+<!-- AZR-037 -->
+<!-- AZR-038 -->
+<card>
+	<name>Sisu - In Her Element</name>
+	<text>Challenger +2 (While challenging, this character gets +2※.)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Villain • Sorcerer</type>
+		<colors>Amethyst</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>5</manacost>
+		<Abilities>Challenger</Abilities>
+		<Strength>3</Strength>
+		<pt>3/6</pt>
+		<Willpower>6</Willpower>
+		<Lore>2</Lore>
+		<Artist>Grace Tran</Artist>
+		<Franchise>Raya and the Last Dragon</Franchise>
+		<Flavor>"I’m a water dragon. This is water. It’s sort of my thing."</Flavor>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/09/Sisu-In-Her-Element-Lorcana-Player.jpg"
+		rarity="Common" 
+		uuid="AZR-039"
+	>SET</set>
+	<tablerow>2</tablerow>
+</card>
+<!-- AZR-040 -->
+<!-- AZR-041 -->
+<!-- AZR-042 -->
+<!-- AZR-043 -->
+<!-- AZR-044 -->
+<!-- AZR-045 -->
+<!-- AZR-046 -->
+<!-- AZR-047 -->
+<!-- AZR-048 -->
+<!-- AZR-049 -->
+<!-- AZR-050 -->
+<!-- AZR-051 -->
+<!-- AZR-052 -->
+<!-- AZR-053 -->
+<!-- AZR-054 -->
+<!-- AZR-055 -->
+<card>
+	<name>Yzma - Conniving Scientist</name>
+	<text>FEEL THE POWER: ↷ - If you have fewer than 3 cards in your hand, draw until you have 3 cards in your hand.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Villain • Sorcerer</type>
+		<colors>Amethyst</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Strength>3</Strength>
+		<pt>3/3</pt>
+		<Willpower>3</Willpower>
+		<Lore>2</Lore>
+		<Artist>Jared Matthews</Artist>
+		<Franchise>The Emperor's New Groove</Franchise>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/09/Yzma-Conniving-Scientist-Lorcana-Player.jpg"
+		rarity="Legendary" 
+		uuid="AZR-056"
+	>SET</set>
+	<tablerow>2</tablerow>
+</card>
+<!-- AZR-057 -->
+<!-- AZR-058 -->
+<!-- AZR-059 -->
+<!-- AZR-060 -->
+<!-- AZR-061 -->
+<!-- AZR-062 -->
+<!-- AZR-063 -->
+<!-- AZR-064 -->
+<!-- AZR-065 -->
+<card>
+	<name>Mad Hatter’s Teapot</name>
+	<text>NO ROOM, NO ROOM: ↷, 1⬡ - Each opponent puts the top card of their deck into their discard.</text>
+	<prop>
+		<maintype>Item</maintype>
+		<type>Item</type>
+		<colors>Amethyst</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>2</manacost>
+		<Artist>Andrea Parisi</Artist>
+		<Franchise>Alice in Wonderland</Franchise>
+		<Flavor>Alice: "My goodness, the tea missed the cup!"
+Mad Hatter: "No, no, my dear - the cup missed the tea!"</Flavor>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/09/Mad-Hatters-Teapot-Lorcana-Player.jpg"
+		rarity="Common" 
+		uuid="AZR-066"
+	>SET</set>
+	<tablerow>1</tablerow>
+</card>
+<!-- AZR-067 -->
+<!-- AZR-068 -->
+<!-- AZR-069 -->
+<!-- AZR-070 -->
+<!-- AZR-071 -->
+<card>
+	<name>Stitch - Alien Buccaneer</name>
+	<text>Shift 3 (You may pay 3⬡ to play this on top of one of your characters named Stitch.)
+READY FOR ACTION: When you play this character, if you used Shift to play him, you may put an action card from your discard on the top of your deck.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero • Inventor</type>
+		<colors>Emerald</colors>
+		<Inkable>No</Inkable>
+		<manacost>4</manacost>
+		<Abilities>Shift</Abilities>
+		<Strength>3</Strength>
+		<pt>3/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>2</Lore>
+		<Artist>Cristian Romero</Artist>
+		<Franchise>Lilo &amp; Stitch</Franchise>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/09/Stitch-Alien-Buccaneer-Lorcana-Player.jpg"
+		rarity="Rare" 
+		uuid="AZR-072"
+	>SET</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Go Go Tomago - Darting Dynamo</name>
+	<text>Evasive (Only characters with Evasive can challenge this character.)
+STOP WHINING, WOMAN UP: When you play this character, you may pay 2⬡ to gain lore equal to the damage on chosen opposing character.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero • Inventor</type>
+		<colors>Emerald</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>2</manacost>
+		<Abilities>Evasive</Abilities>
+		<Strength>2</Strength>
+		<pt>2/2</pt>
+		<Willpower>2</Willpower>
+		<Lore>1</Lore>
+		<Artist>Alex Accorsi</Artist>
+		<Franchise>Big Hero 6</Franchise>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/09/Go-Go-Tomago-Darting-Dynamo-Lorcana-Player.jpg"
+		rarity="Rare" 
+		uuid="AZR-073"
+	>SET</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Honey Lemon - Chemical Genius</name>
+	<text>HERE’S THE BEST PART: When you play this character, you may pay 2⬡ to have each opponent choose and discard a card.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero • Inventor</type>
+		<colors>Emerald</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>2</manacost>
+		<Strength>1</Strength>
+		<pt>1/1</pt>
+		<Willpower>1</Willpower>
+		<Lore>2</Lore>
+		<Artist>Aris Zentelis</Artist>
+		<Franchise>Big Hero 6</Franchise>
+		<Flavor>"You’re going to love this!"</Flavor>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/09/Honey-Lemon-Chemical-Genius-Lorcana-Player.jpg"
+		rarity="Uncommon" 
+		uuid="AZR-074"
+	>SET</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Fred - Mascot by Day</name>
+	<text>HOW COOL IS THAT: Whenever this character is challenged, gain 2 lore.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero</type>
+		<colors>Emerald</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>1</manacost>
+		<Strength>1</Strength>
+		<pt>1/1</pt>
+		<Willpower>1</Willpower>
+		<Lore>1</Lore>
+		<Artist>Cam Kendell / Danielle Powers</Artist>
+		<Franchise>Big Hero 6</Franchise>
+		<Flavor>". . . but by night . . . I am also a school mascot."</Flavor>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/09/Fred-Mascot-by-Day-Lorcana-Player.jpg"
+		rarity="Common" 
+		uuid="AZR-075"
+	>SET</set>
+	<tablerow>2</tablerow>
+</card>
+<!-- AZR-076 -->
+<!-- AZR-077 -->
+<!-- AZR-078 -->
+<!-- AZR-079 -->
+<card>
+	<name>Donald Duck - First Mate</name>
+	<text>CAPTAIN ON DECK: While you have a Captain character in play, this character gets +2◆.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Hero • Pirate</type>
+		<colors>Emerald</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>3</manacost>
+		<Strength>2</Strength>
+		<pt>2/3</pt>
+		<Willpower>3</Willpower>
+		<Lore>1</Lore>
+		<Artist>Jochem van Gool</Artist>
+		<Franchise>Mickey Mouse &amp;Friends</Franchise>
+		<Flavor>"A promotion! It’s about time someone recognized my natural leadership skills!"</Flavor>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/08/Donald-Duck-First-Mate-LQ-Lorcana-Player.jpg"
+		rarity="Uncommon" 
+		uuid="AZR-080"
+	>SET</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Daisy Duck - Pirate Captain</name>
+	<text>DISTANT SHORES: Whenever one of your (unknown) characters quests while at a location, d(unknown)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Captain • Hero • Pirate</type>
+		<colors>Emerald</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Strength>?</Strength>
+		<pt>?/?</pt>
+		<Willpower>?</Willpower>
+		<Lore>?</Lore>
+		<Artist>Jochem van Gool</Artist>
+		<Franchise>Mickey Mouse &amp;Friends</Franchise>
+		<Flavor>"The answers we’re looking for are on t(unknown) side of that maze, I just know it!"</Flavor>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/08/Daisy-Duck-Pirate-Captain-LQ-Lorcana-Player.jpg"
+		rarity="Super Rare" 
+		uuid="AZR-081"
+	>SET</set>
+	<tablerow>2</tablerow>
+</card>
+<!-- AZR-082 -->
+<!-- AZR-083 -->
+<!-- AZR-084 -->
+<!-- AZR-085 -->
+<!-- AZR-086 -->
+<!-- AZR-087 -->
+<!-- AZR-088 -->
+<card>
+	<name>Goofy - Expert Shipwright</name>
+	<text>Ward (Opponents can’t choose this character except to challenge.)
+CLEVER DESIGN: Whenever this character (unknown) chosen character gains Ward until t(he start of?) your next turn.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Hero • Inventor</type>
+		<colors>Emerald</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>5</manacost>
+		<Abilities>Ward</Abilities>
+		<Strength>?</Strength>
+		<pt>?/?</pt>
+		<Willpower>?</Willpower>
+		<Lore>?</Lore>
+		<Artist>Max Ulichney</Artist>
+		<Franchise>Mickey Mouse &amp;Friends</Franchise>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/08/Goofy-Expert-Shipwright-LQ-Lorcana-Player.jpg"
+		rarity="Rare" 
+		uuid="AZR-089"
+	>SET</set>
+	<tablerow>2</tablerow>
+</card>
+<!-- AZR-090 -->
+<!-- AZR-091 -->
+<!-- AZR-092 -->
+<!-- AZR-093 -->
+<!-- AZR-094 -->
+<!-- AZR-095 -->
+<!-- AZR-096 -->
+<!-- AZR-097 -->
+<!-- AZR-098 -->
+<!-- AZR-099 -->
+<!-- AZR-100 -->
+<!-- AZR-101 -->
+<!-- AZR-102 -->
+<card>
+	<name>Mickey Mouse - Pirate Captain</name>
+	<text>Shift 3 (You may pay 3⬡ to play this on top of one of your characters named Mickey Mouse.)
+MARINER’S MIGHT: Whenever this character quests, chosen Pirate character gets +2※ (and?) gains "This character takes no damage from challenges" this turn.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Hero • Pirate • Captain</type>
+		<colors>Ruby</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>5</manacost>
+		<Abilities>Shift</Abilities>
+		<Strength>?</Strength>
+		<pt>?/?</pt>
+		<Willpower>?</Willpower>
+		<Lore>?</Lore>
+		<Artist>Koni</Artist>
+		<Franchise>Mickey Mouse &amp;Friends</Franchise>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/08/Mickey-Mouse-Pirate-Captain-LQ-Lorcana-Player.jpg"
+		rarity="Super Rare" 
+		uuid="AZR-103"
+	>SET</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Kakamora - Boarding Party</name>
+	<text>Rush (This character can challenge the turn they’re played.)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Pirate</type>
+		<colors>Ruby</colors>
+		<Inkable>no</Inkable>
+		<manacost>4</manacost>
+		<Abilities>Rush</Abilities>
+		<Strength>5</Strength>
+		<pt>5/2</pt>
+		<Willpower>2</Willpower>
+		<Lore>1</Lore>
+		<Artist>Saulo Nate</Artist>
+		<Franchise>Moana</Franchise>
+		<Flavor>Moana: "Do you think they saw us?"
+Maui: "They saw us:"</Flavor>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/09/Kakamora-Boarding-Party-Lorcana-Player.jpg"
+		rarity="Uncommon" 
+		uuid="AZR-104"
+	>SET</set>
+	<tablerow>2</tablerow>
+</card>
+<!-- AZR-105 -->
+<!-- AZR-106 -->
+<!-- AZR-107 -->
+<!-- AZR-108 -->
+<!-- AZR-109 -->
+<!-- AZR-110 -->
+<!-- AZR-111 -->
+<!-- AZR-112 -->
+<!-- AZR-113 -->
+<!-- AZR-114 -->
+<!-- AZR-115 -->
+<!-- AZR-116 -->
+<!-- AZR-117 -->
+<!-- AZR-118 -->
+<!-- AZR-119 -->
+<card>
+	<name>Minnie Mouse - Pirate Lookout</name>
+	<text>LAND, HO!: Once during your turn, when (unknown) card is put into your inkwell, you may r(eturn a?) location card from your discard to you(r hand?)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Hero • Pirate</type>
+		<colors>Ruby</colors>
+		<Inkable>No</Inkable>
+		<manacost>3</manacost>
+		<Strength>?</Strength>
+		<pt>?/?</pt>
+		<Willpower>?</Willpower>
+		<Lore>?</Lore>
+		<Artist>Alice Pisoni</Artist>
+		<Franchise>Mickey Mouse &amp; Friends</Franchise>
+		<Flavor>Minnie leaned forward. Could it be tru (unknown) the island at last?</Flavor>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/08/Minnie-Mouse-Pirate-Lookout-LQ-Lorcana-Player.jpg"
+		rarity="Super Rare" 
+		uuid="AZR-120"
+	>SET</set>
+	<tablerow>2</tablerow>
+</card>
+<!-- AZR-121 -->
+<!-- AZR-122 -->
+<!-- AZR-123 -->
+<!-- AZR-124 -->
+<!-- AZR-125 -->
+<card>
+	<name>Tigger - In the Crow’s Nest</name>
+	<text>Evasive (Only characters with Evasive can challenge this character.)
+SWASH YOUR BUCKLES: Whenever you play an action, this character gets +1※ and +1◆ this turn.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Dreamborn • Hero • Pirate</type>
+		<colors>Ruby</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>3</manacost>
+		<Abilities>Evasive</Abilities>
+		<Strength>0</Strength>
+		<pt>0/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>1</Lore>
+		<Artist>John Loren</Artist>
+		<Franchise>Winnie the Pooh</Franchise>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/09/Tigger-In-the-Crows-Nest-Lorcana-Player.jpg"
+		rarity="Rare" 
+		uuid="AZR-126"
+	>SET</set>
+	<tablerow>2</tablerow>
+</card>
+<!-- AZR-127 -->
+<!-- AZR-128 -->
+<!-- AZR-129 -->
+<!-- AZR-130 -->
+<!-- AZR-131 -->
+<!-- AZR-132 -->
+<!-- AZR-133 -->
+<!-- AZR-134 -->
+<!-- AZR-135 -->
+<!-- AZR-136 -->
+<!-- AZR-137 -->
+<!-- AZR-138 -->
+<!-- AZR-139 -->
+<card>
+	<name>Gadget Hackwrench - Brilliant Bosun</name>
+	<text>Shift 4 (You may pay 4⬡ to play this on top of one of your characters named Gadget.)
+MECHANICALLY SAVVY: While you have 3 or more items in play, you pay 1⬡ less to play Inventor characters.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Floodborn • Ally • Inventor</type>
+		<colors>Sapphire</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>6</manacost>
+		<Abilities>Shift</Abilities>
+		<Strength>3</Strength>
+		<pt>3/6</pt>
+		<Willpower>6</Willpower>
+		<Lore>3</Lore>
+		<Artist>Alex Accorsi</Artist>
+		<Franchise>Chip 'n Dale: Rescue Rangers</Franchise>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/09/Gadget-Hackwrench-Brilliant-Bosun-Lorcana-Player.jpg"
+		rarity="Super Rare" 
+		uuid="AZR-140"
+	>SET</set>
+	<tablerow>2</tablerow>
+</card>
+<!-- AZR-141 -->
+<card>
+	<name>Oswald - The Lucky Rabbit</name>
+	<text>FAVORABLE CHANCE: During your turn, whenever a card is put into your inkwell, you may reveal the top card of your deck. If it’s an item card, you may play that item for free and they enter play exerted. Otherwise, put it on the bottom of your deck.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero</type>
+		<colors>Sapphire</colors>
+		<Inkable>No</Inkable>
+		<manacost>2</manacost>
+		<Strength>2</Strength>
+		<pt>2/1</pt>
+		<Willpower>1</Willpower>
+		<Lore>2</Lore>
+		<Artist>Tom Bancroft / Kristen Breshears</Artist>
+		<Franchise>Mickey Mouse &amp; Friends</Franchise>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/09/Oswald-The-Lucky-Rabbit-LQ-Lorcana-Player.jpg"
+		rarity="Legendary" 
+		uuid="AZR-142"
+	>PRO</set>
+	<tablerow>2</tablerow>
+</card>
+<!-- AZR-143 -->
+<!-- AZR-144 -->
+<card>
+	<name>Hiro Hamada - Robotics Prodigy</name>
+	<text>SWEET TECH: ↷ , 2⬡ - Search your deck for an item card or a Robot character card and reveal it to all players. Shuffle your deck and put that card on top of it.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero • Inventor</type>
+		<colors>Sapphire</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>3</manacost>
+		<Strength>0</Strength>
+		<pt>0/3</pt>
+		<Willpower>3</Willpower>
+		<Lore>1</Lore>
+		<Artist>Denny Minonne</Artist>
+		<Franchise>Big Hero 6</Franchise>
+		<Flavor>"A couple more tweaks and I’ve just about . . . got it!"</Flavor>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/09/Hiro-Hamada-Robotics-Prodigy-Lorcana-Player.jpg"
+		rarity="Uncommon" 
+		uuid="AZR-145"
+	>SET</set>
+	<tablerow>2</tablerow>
+</card>
+<!-- AZR-146 -->
+<!-- AZR-147 -->
+<card>
+	<name>Nick Wilde - Soggy Fox</name>
+	<text>NICE TO HAVE A PARTNER: While you have another character with Support in play, this character gets +2※.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Ally</type>
+		<colors>Sapphire</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>1</manacost>
+		<Abilities>Support</Abilities>
+		<Strength>1</Strength>
+		<pt>1/2</pt>
+		<Willpower>2</Willpower>
+		<Lore>1</Lore>
+		<Artist>Lauren Barger</Artist>
+		<Franchise>Zootopia</Franchise>
+		<Flavor>"Glad you could make it."</Flavor>	
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/09/Nick-Wilde-Soggy-Fox-LQ-Lorcana-Player.jpg"
+		rarity="Common" 
+		uuid="AZR-148"
+	>SET</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Wasabi - Methodical Engineer</name>
+	<text>BLADES OF FURY: When you play this character, you may banish chosen item. Its player gains 1 lore.
+QUICK REFLEXES: During your turn, this character gains Evasive. (They can challenge characters with Evasive.)</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero • Inventor</type>
+		<colors>Sapphire</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Abilities>Evasive</Abilities>
+		<Strength>3</Strength>
+		<pt>3/3</pt>
+		<Willpower>3</Willpower>
+		<Lore>1</Lore>
+		<Artist>Taraneh</Artist>
+		<Franchise>Big Hero 6</Franchise>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/09/Wasabi-Methodical-Engineer-Lorcana-Player.jpg"
+		rarity="Uncommon" 
+		uuid="AZR-149"
+	>SET</set>
+	<tablerow>2</tablerow>
+</card>
+<!-- AZR-150 -->
+<!-- AZR-151 -->
+<!-- AZR-152 -->
+<!-- AZR-153 -->
+<card>
+	<name>Hiro Hamada - Team Leader</name>
+	<text>I NEED TO UPGRADE ALL OF YOU: Your other Inventor characters gain Resist +1. (Damage dealt to them is reduced by 1.)
+SHAPE THE FUTURE: 2⬡ - Look at the top card of your deck. Put it on either the top or the bottom of your deck.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero • Inventor</type>
+		<colors>Sapphire</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Abilities>Resist</Abilities>
+		<Strength>1</Strength>
+		<pt>1/5</pt>
+		<Willpower>5</Willpower>
+		<Lore>1</Lore>
+		<Artist>Gonzalo Kenny</Artist>
+		<Franchise>Big Hero 6</Franchise>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/09/Hiro-Hamada-Team-Leader-Lorcana-Player.jpg"
+		rarity="Rare" 
+		uuid="AZR-154"
+	>SET</set>
+	<tablerow>2</tablerow>
+</card>
+<!-- AZR-155 -->
+<card>
+	<name>Baymax - Personal Healthcare Companion</name>
+	<text>FULLY CHARGED: If you have an Inventor character in play, you pay 1⬡ less to play this character.
+YOU SAID 'OW': 2⬡ - Remove up to 1 damage from another chosen character.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero • Robot</type>
+		<colors>Sapphire</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>3</manacost>
+		<Strength>0</Strength>
+		<pt>0/4</pt>
+		<Willpower>4</Willpower>
+		<Lore>2</Lore>
+		<Artist>Jared Matthews</Artist>
+		<Franchise>Big Hero 6</Franchise>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/09/Baymax-Personal-Healthcare-Companion-Lorcana-Player.jpg"
+		rarity="Rare" 
+		uuid="AZR-156"
+	>SET</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Baymax - Armored Companion</name>
+	<text>THE TREATMENT IS WORKING: When you play this character and whenever he quests, you may remove up to 2 damage from another chosen character of yours. Gain 1 lore for each 1 damage removed this way.</text>
+	<prop>
+		<maintype>Character</maintype>
+		<type>Storyborn • Hero • Robot</type>
+		<colors>Sapphire</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>5</manacost>
+		<Strength>2</Strength>
+		<pt>2/6</pt>
+		<Willpower>6</Willpower>
+		<Lore>2</Lore>
+		<Artist>Brianna Garcia</Artist>
+		<Franchise>Big Hero 6</Franchise>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/09/Baymax-Armored-Companion-Lorcana-Player.jpg"
+		rarity="Legendary" 
+		uuid="AZR-157"
+	>SET</set>
+	<tablerow>2</tablerow>
+</card>
+<!-- AZR-158 -->
+<!-- AZR-159 -->
+<!-- AZR-160 -->
+<!-- AZR-161 -->
+<card>
+	<name>We Could Be Immortals</name>
+	<text>(A character with cost 4 or more can ↷ to sing this song for free.)
+Your Inventor characters gain Resist +6 this turn. Then, put this card into your inkwell facedown and exerted. (Damage dealt to them is reduced by 6.)</text>
+	<prop>
+		<maintype>Action</maintype>
+		<type>Action • Song</type>
+		<colors>Sapphire</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>4</manacost>
+		<Abilities>Resist</Abilities>
+		<Artist>Ian MacDonald</Artist>
+		<Franchise>Big Hero 6</Franchise>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/09/We-Could-Be-Immortals-Lorcana-Player.jpg"
+		rarity="Rare" 
+		uuid="AZR-162"
+	>SET</set>
+	<tablerow>3</tablerow>
+</card>
+<!-- AZR-163 -->
+<!-- AZR-164 -->
+<!-- AZR-165 -->
+<!-- AZR-166 -->
+<!-- AZR-167 -->
+<!-- AZR-168 -->
+<!-- AZR-169 -->
+<!-- AZR-170 -->
+<!-- AZR-171 -->
+<!-- AZR-172 -->
+<!-- AZR-173 -->
+<!-- AZR-174 -->
+<!-- AZR-175 -->
+<!-- AZR-176 -->
+<!-- AZR-177 -->
+<!-- AZR-178 -->
+<!-- AZR-179 -->
+<!-- AZR-180 -->
+<!-- AZR-181 -->
+<!-- AZR-182 -->
+<!-- AZR-183 -->
+<!-- AZR-184 -->
+<!-- AZR-185 -->
+<!-- AZR-186 -->
+<!-- AZR-187 -->
+<!-- AZR-188 -->
+<!-- AZR-189 -->
+<!-- AZR-190 -->
+<!-- AZR-191 -->
+<!-- AZR-192 -->
+<!-- AZR-193 -->
+<!-- AZR-194 -->
+<card>
+	<name>Hot Potato</name>
+	<text>Choose one:
+• Deal 2 damage to chosen character.
+• Banish chosen item.</text>
+	<prop>
+		<maintype>Action</maintype>
+		<type>Action</type>
+		<colors>Steel</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>3</manacost>
+		<Artist>Nicolas Ky</Artist>
+		<Franchise>Lilo &amp; Stitch</Franchise>
+		<Flavor>"This is not going to end well."
+- Pleakley</Flavor>
+	</prop>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/09/Hot-Potato-Lorcana-Player.jpg"
+		rarity="Uncommon" 
+		uuid="AZR-195"
+	>SET</set>
+	<tablerow>3</tablerow>
+</card>
+<!-- AZR-196 -->
+<!-- AZR-197 -->
+<!-- AZR-198 -->
+<!-- AZR-199 -->
+<!-- AZR-200 -->
+<!-- AZR-201 -->
+<!-- AZR-202 -->
+<!-- AZR-203 -->
+<card>
+	<name>Galactic Council Chamber - Courtroom</name>
+	<text>FEDERATION DECREE: While you have an Alien or Robot character here, this location can’t be challenged.</text>
+	<prop>
+		<maintype>Location</maintype>
+		<type>Location</type>
+		<colors>Steel</colors>
+		<Inkable>Yes</Inkable>
+		<manacost>3</manacost>
+		<Move_Cost>1</Move_Cost>
+		<pt>1/7</pt>
+		<Willpower>7</Willpower>
+		<Lore>1</Lore>
+		<Artist>Kaithlin Cuthbertson</Artist>
+		<Franchise>Lilo &amp; Stitch</Franchise>
+	</prop>
+	<set 
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/09/Galactic-Council-Chamber-Courtroom-Lorcana-Player.jpg"
+		rarity="Common"
+		uuid="AZR-204"
+	>URS</set>
+	<tablerow>1</tablerow>
+	<cipt>1</cipt>
+</cards>
+</cockatrice_carddatabase>
