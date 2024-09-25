@@ -19,4 +19,5 @@
 | 2024.08.21 | **Core 5.0**             | Added Set 5; 204 more cards, 1020 cards total, fixed some minor errors |
 | 2024.07.24 | **Promos 1.2**           | 5 new cards added; 57 total                                            |
 | 2024.09.16 | Spoilers 6.0             | First Release; 32 Cards                                                |
-| 2024.09.16 | **Spoilers 6.1**         | Fixed small coding errors                                              |
+| 2024.09.16 | Spoilers 6.1             | Fixed small coding errors                                              |
+| 2024.09.16 | **Spoilers 6.2**         | 4 new cards added, 36 Total                                            |
