@@ -22,5 +22,5 @@
 | 2024.09.16 | Spoilers 6.1             | Fixed small coding errors                                              |
 | 2024.09.16 | **Spoilers 6.2**         | 4 new cards added, 36 Total                                            |
 | 2024.11.21 | **Core 6.0**             | Added Set 6, Added Bucky Errata, Changed abilities to UPPER case
-                                          to match physical cards, Added Dalmatian Puppy alternate arts;
-                                          1230 cards Total
+|                                         to match physical cards, Added Dalmatian Puppy alternate arts;         |
+|                                         1230 cards Total                                                       |
