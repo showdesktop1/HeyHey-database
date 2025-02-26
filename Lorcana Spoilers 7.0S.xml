@@ -1,0 +1,1650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+<!--
+Made by [Kage | crusadercards@gmail.com]
+Images pulled from lorcanaplayer.com
+no card details listed, only images for simple use
+-->
+<sets>
+<set>
+	<name>ARI</name>
+	<longname>New Set Spoilers</longname>
+	<settype>Lorcana Spoilers</settype>
+	<releasedate>2024-03-07</releasedate>
+</set>
+</sets>
+<cards>
+<card>
+	<name>Rhino - Motivational Speaker</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/1-204-EN-7-Rhino-Motivational-Speaker-LQ-Lorcana-Player.jpg"
+		uuid="ARI-001"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Perdita - Playful Mother</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/2-204-EN-7-Perdita-Playful-Mother-LQ-Lorcana-Player-1.jpg"
+		uuid="ARI-002"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>King Stefan - New Father</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/3-204-EN-7-King-Stefan-New-Father-LQ-Lorcana-Player.jpg"
+		uuid="ARI-003"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Bolt - Superdog</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/4-204-EN-7-Bolt-Superdog-LQ-Lorcana-Player.jpg"
+		uuid="ARI-004"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Roger Radcliffe - Dog Lover</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/5-204-EN-7-Roger-Radcliffe-Dog-Lover-LQ-Lorcana-Player.jpg"
+		uuid="ARI-005"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Trusty - Loyal Bloodhound</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/6-204-EN-7-Trusty-Loyal-Bloodhound-LQ-Lorcana-Player.jpg"
+		uuid="ARI-006"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Peg - Natural Performer</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/7-204-EN-7-Peg-Natural-Performer-LQ-Lorcana-Player.jpg"
+		uuid="ARI-007"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Suzy - Master Seamstress</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/8-204-EN-7-Suzy-Master-Seamstress-LQ-Lorcana-Player.jpg"
+		uuid="ARI-008"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Mittens - Sassy Street Cat</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/9-204-EN-7-Mittens-Sassy-Street-Cat-Lorcana-Player.jpg"
+		uuid="ARI-009"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Tramp - Street Smart Dog</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/10-204-EN-7-Tramp-Street-Smart-Dog-LQ-Lorcana-Player.jpg"
+		uuid="ARI-010"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>The Troubadour - Musical Narrator</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/11-204-EN-7-The-Troubadour-Musical-Narrator-Lorcana-Player.jpg"
+		uuid="ARI-011"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Wendy Darling - Pirate Queen</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/12-204-EN-7-Wendy-Darling-Pirate-Queen-LQ-Lorcana-Player.jpg"
+		uuid="ARI-012"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Mirabel Madrigal - Hopeful Dreamer</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/13-204-EN-7-Mirabel-Madrigal-Hopeful-Dreamer-LQ-Lorcana-Player.jpg"
+		uuid="ARI-013"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Aurora - Waking Beauty</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/14-204-EN-7-Aurora-Waking-Beauty-LQ-Lorcana-Player.jpg"
+		uuid="ARI-014"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Cinderella - The Right One</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/15-204-EN-7-Cinderella-The-Right-One-LQ-Lorcana-Player-1.jpg"
+		uuid="ARI-015"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Mariano Guzman - Handsome Suitor</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/16-204-EN-7-Mariano-Guzman-Handsome-Suitor-LQ-Lorcana-Player.jpg"
+		uuid="ARI-016"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Candlehead - Dedicated Racer</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/17-204-EN-7-Candlehead-Dedicated-Racer-LQ-Lorcana-Player.jpg"
+		uuid="ARI-017"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Bolt - Dependable Friend</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/18-204-EN-7-Bolt-Dependable-Friend-Lorcana-Player.jpg"
+		uuid="ARI-018"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Pascal - Garden Chameleon</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/19-204-EN-7-Pascal-Garden-Chameleon-Lorcana-Player.jpg"
+		uuid="ARI-019"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>King Candy - Royal Racer</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/20-204-EN-7-King-Candy-Royal-Racer-LQ-Lorcana-Player.jpg"
+		uuid="ARI-020"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Penny - Bolt's Person</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/21-204-EN-7-Penny-Bolts-Person-LQ-Lorcana-Player.jpg"
+		uuid="ARI-021"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Fix It Felix Jr. - Pint Sized Hero</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/22-204-EN-7-Fix-It-Felix-Jr.-Pint-Sized-Hero-LQ-Lorcana-Player.jpg"
+		uuid="ARI-022"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Thunderbolt - Wonder Dog</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/23-204-EN-7-Thunderbolt-Wonder-Dog-LQ-Lorcana-Player.jpg"
+		uuid="ARI-023"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>The Prince - Vigilant Suitor</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/24-204-EN-7-The-Prince-Vigilant-Suitor-LQ-Lorcana-Player.jpg"
+		uuid="ARI-024"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Isabela Madrigal - In the Moment</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/25-204-EN-7-Isabela-Madrigal-In-the-Moment-LQ-Lorcana-Player.jpg"
+		uuid="ARI-025"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Calhoun - Courageous Rescuer</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/26-204-EN-7-Calhoun-Courageous-Rescuer-Lorcana-Player.jpg"
+		uuid="ARI-026"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Wreck It Ralph - Heros Duty</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/27-204-EN-7-Wreck-It-Ralph-Heros-Duty-LQ-Lorcana-Player.jpg"
+		uuid="ARI-027"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Lady - Miss Park Avenue</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/01/28-204-EN-7-Lady-Miss-Park-Avenue-LQ-Lorcana-Player.jpg"
+		uuid="ARI-028"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Pongo - Dear Old Dad</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/29-204-EN-7-Pongo-Dear-Old-Dad-LQ-Lorcana-Player.jpg"
+		uuid="ARI-029"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Kenai - Protective Brother</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/30-204-EN-7-Kenai-Protective-Brother-LQ-Lorcana-Player.jpg"
+		uuid="ARI-030"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Minnie Mouse - Storyteller</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/31-204-EN-7-Minnie-Mouse-Storyteller-LQ-Lorcana-Player.jpg"
+		uuid="ARI-031"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Perla - Nimble Seamstress</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/32-204-EN-7-Perla-Nimble-Seamstress-Lorcana-Player.jpg"
+		uuid="ARI-032"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Snow White - Fairest in the Land</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/33-204-EN-7-Snow-White-Fairest-in-the-Land-LQ-Lorcana-Player.jpg"
+		uuid="ARI-033"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Koda - Smallish Bear</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/34-304-EN-7-Koda-Smallish-Bear-LQ-Lorcana-Player.jpg"
+		uuid="ARI-034"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Mirabel Madrigal - Musically Talented</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/35-204-EN-7-Mirabel-Madrigal-Musically-Talented-LQ-Lorcana-Player.jpg"
+		uuid="ARI-035"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Calhoun - Battle Tested</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/36-204-EN-7-Calhoun-Battle-Tested-LQ-Lorcana-Player.jpg"
+		uuid="ARI-036"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Pepa Madrigal - Sensitive Sister</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/27-204-EN-7-Pepa-Madrigal-Sensitive-Sister-LQ-Lorcana-Player.jpg"
+		uuid="ARI-037"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>So Much To Give</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/So-Much-To-Give-LQ-Lorcana-Player.jpg"
+		uuid="ARI-038"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Restoring the Heart</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/39-204-EN-7-Restoring-the-Heart-Lorcana-Player.jpg"
+		uuid="ARI-039"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>The Family Madrigal</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/40-204-EN-7-The-Family-Madrigal-LQ-Lorcana-Player.jpg"
+		uuid="ARI-040"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Amber Coil</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/41-204-EN-7-Amber-Coil-LQ-Lorcana-Player.jpg"
+		uuid="ARI-041"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Spaghetti Dinner</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/24-204-EN-7-Spaghetti-Dinner-Lorcana-Player.jpg"
+		uuid="ARI-042"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Kanine Krunchies</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/43-204-EN-1-Kanine-Krunchies-LQ-Lorcana-Player.jpg"
+		uuid="ARI-043"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>The Glass Slipper</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/44-204-EN-7-The-Glass-Slipper-LQ-Lorcana-Player.jpg"
+		uuid="ARI-044"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Kuzco - Temporary Whale</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/45-204-EN-7-Kuzco-Temporary-Whale-LQ-Lorcana-Player.jpg"
+		uuid="ARI-045"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Tanana - Tribal Elder</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/46-204-EN-7-Tanana-Tribal-Elder-LQ-Lorcana-Player.jpg"
+		uuid="ARI-046"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Treasure Guardian - Foreboding Sentry</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/47-204-EN-7-Treasure-Guardian-Foreboding-Sentry-LQ-Lorcana-Player.jpg"
+		uuid="ARI-047"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Honeymaren - Northuldra Guide</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/48-204-EN-7-Honeymaren-Northuldra-Guide-LQ-Lorcana-Player.jpg"
+		uuid="ARI-048"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Iago - Giant Spectral Parrot</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/01/49-204-EN-7-Iago-Giant-Spectral-Parrot-LQ-Lorcana-Player-1.jpg"
+		uuid="ARI-049"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Chernabog - Creature of the Night</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/50-204-EN-7-Chernabog-Creature-of-the-Night-LQ-Lorcana-Player-1.jpg"
+		uuid="ARI-050"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Jafar - Newly Crowned</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/01/51-204-EN-7-Jafar-Newly-Crowned-LQ-Lorcana-Player-1.jpg"
+		uuid="ARI-051"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Hades - Fast Talker</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/52-204-EN-7-Hades-Fast-Talker-Lorcana-Player.jpg"
+		uuid="ARI-052"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Madame Medusa - Diamond Lover</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/53-204-EN-7-Madame-Medusa-Diamond-Lover-LQ-Lorcana-Player.jpg"
+		uuid="ARI-053"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Te Ka - Elemental Terror</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/54-204-EN-7-Te-Ka-Elemental-Terror-LQ-Lorcana-Player.jpg"
+		uuid="ARI-054"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Elsa - Trusted Sister</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/55-204-EN-7-Elsa-Trusted-Sister-LQ-Lorcana-Player.jpg"
+		uuid="ARI-055"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Madam Mim - Cheating Spellcaster</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/56-204-EN-7-Madam-Mim-Cheating-Spellcaster-LQ-Lorcana-Player.jpg"
+		uuid="ARI-056"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Giant Cobra - Ghostly Serpent</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/57-204-EN-7-Giant-Cobra-Ghostly-Serpent-LQ-Lorcana-Player.jpg"
+		uuid="ARI-057"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Te Ka - Lava Monster</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/58-204-EN-7-Te-Ka-Lava-Monster-LQ-Lorcana-Player.jpg"
+		uuid="ARI-058"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Yzma - Transformed Kitten</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/59-204-EN-7-Yzma-Transformed-Kitten-LQ-Lorcana-Player.jpg"
+		uuid="ARI-059"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Bucky - Nutty Rascal</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/60-204-EN-7-Bucky-Nutty-Rascal-LQ-Lorcana-Player.jpg"
+		uuid="ARI-060"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Pain - Impudent Imp</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/61-204-EN-7-Pain-Impudent-Imp-LQ-Lorcana-Player.jpg"
+		uuid="ARI-061"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Rajah - Ghostly Tiger</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/62-204-EN-7-Rajah-Ghostly-Tiger-LQ-Lorcana-Player.jpg"
+		uuid="ARI-062"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Kronk - Laid Back</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/63-204-EN-7-Kronk-Laid-Back-LQ-Lorcana-Player.jpg"
+		uuid="ARI-063"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Mother Gothel - Vain Sorceress</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/64-2040-EN-7-Mother-Gothel-Vain-Sorceress-LQ-Lorcana-Player.jpg"
+		uuid="ARI-064"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Sven - Keen Eyed Reindeer</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/01/65-204-EN-7-Sven-Keen-Eyed-Reindeer-Lorcana-Player.jpg"
+		uuid="ARI-065"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Diablo - Spiteful Raven</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/66-204-EN-7-Diablo-Spiteful-Raven-LQ-Lorcana-Player.jpg"
+		uuid="ARI-066"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Merlin - Clever Clairvoyant</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/67-204-EN-1-Merlin-Clever-Clairvoyant-LQ-Lorcana-Player.jpg"
+		uuid="ARI-067"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Yzma - Above It All</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/68-204-EN-7-Yzma-Above-It-All-LQ-Lorcana-Player.jpg"
+		uuid="ARI-068"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Elsa - Ice Maker</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/69-204-EN-7-Elsa-Ice-Maker-LQ-Lorcana-Player.jpg"
+		uuid="ARI-069"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Kenai - Magical Bear</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/70-204-EN-7-Kenai-Magical-Bear-LQ-Lorcana-Player.jpg"
+		uuid="ARI-070"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Kuzco - Panicked Llama</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/71-204-EN-7-Kuzco-Panicked-Llama-Lorcana-Player.jpg"
+		uuid="ARI-071"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Anna - Ice Breaker</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/72-204-EN-7-Anna-Ice-Breaker-LQ-Lorcana-Player.jpg"
+		uuid="ARI-072"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Donald Duck - Flustered Sorcerer</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/73-204-EN-7-Donald-Duck-Flustered-Sorcerer-LQ-Lorcana-Player.jpg"
+		uuid="ARI-073"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>The Queen - Jealous Beauty</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/74-204-EN-7-The-Queen-Jealous-Beauty-LQ-Lorcana-Player.jpg"
+		uuid="ARI-074"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Panic - High Strung Imp</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/75-204-EN-7-Panic-High-Strung-Imp-LQ-Lorcana-Player.jpg"
+		uuid="ARI-075"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Archimedes - Exceptional Owl</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/76-204-EN-7-Archimedes-Exceptional-Owl-LQ-Lorcana-Player.jpg"
+		uuid="ARI-076"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Kashekim - Ancient Ruler</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/77-204-EN-7-Kashekim-Ancient-Ruler-LQ-Lorcana-Player.jpg"
+		uuid="ARI-077"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Dolores Madrigal - Within Earshot</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/78-204-EN-7-Dolores-Madrigal-Within-Earshot-LQ-Lorcana-Player.jpg"
+		uuid="ARI-078"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Mufasa - Among the Stars</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/79-204-EN-7-Mufasa-Among-the-Stars-Lorcana-Player.jpg"
+		uuid="ARI-079"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Magical Maneuvers</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/80-204-EN-7-Magical-Maneuvers-LQ-Lorcana-Player.jpg"
+		uuid="ARI-080"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>This is my Family</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/81-204-EN-7-This-is-my-Family-LQ-Lorcana-Player.jpg"
+		uuid="ARI-081"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Show Me More</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/82-204-EN-7-Show-Me-More-LQ-Lorcana-Player.jpg"
+		uuid="ARI-082"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Restoring the Crown</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/83-204-EN-7-Restoring-the-Crown-LQ-Lorcana-Player-1.jpg"
+		uuid="ARI-083"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Amethyst Coil</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/84-204-EN-7-Amethyst-Coil-LQ-Lorcana-Player.jpg"
+		uuid="ARI-084"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Drizella - Spoiled Stepsister</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/85-204-EN-7-Drizella-Spoiled-Stepsister-LQ-Lorcana-Player.jpg"
+		uuid="ARI-085"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Grewnge - Cannon Expert</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/86-204-EN-7-Grewnge-Cannon-Expert-LQ-Lorcana-Player-1.jpg"
+		uuid="ARI-086"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Baymax - Low Battery</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/87-204-EN-7-Baymax-Low-Battery-LQ-Lorcana-Player.jpg"
+		uuid="ARI-087"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Thomas O'Malley - Feline Charmer</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/88-204-EN-7-Thomas-OMalley-Feline-Charmer-Lorcana-Player.jpg"
+		uuid="ARI-088"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Pete - Pirate Scoundrel</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/89-204-EN-7-Pete-Pirate-Scoundrel-LQ-Lorcana-Player.jpg"
+		uuid="ARI-089"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Hiro Hamada - Future Champion</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/90-204-EN-7-Hiro-Hamada-Future-Champion-LQ-Lorcana-Player.jpg"
+		uuid="ARI-090"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Cheshire Cat - Perplexing Feline</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/91-204-EN-7-Cheshire-Cat-Perplexing-Feline-LQ-Lorcana-Player.jpg"
+		uuid="ARI-091"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Shere Khan - Infamous Tiger</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/92-204-EN-7-Shere-Khan-Infamous-Tiger-LQ-Lorcana-Player.jpg"
+		uuid="ARI-092"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Basil - Secret Informer</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/93-204-EN-7-Basil-Secret-Informer-LQ-Lorcana-Player.jpg"
+		uuid="ARI-093"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Mad Hatter - Unruly Eccentric</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/94-204-EN-7-Mad-Hatter-Unruly-Eccentric-Lorcana-Player.jpg"
+		uuid="ARI-094"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Queen of Hearts - Unpredictable Bully</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/95-204-EN-7-Queen-of-Hearts-Unpredictable-Bully-LQ-Lorcana-Player.jpg"
+		uuid="ARI-095"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Hiro Hamada - Armor Designer</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/96-204-EN-7-Hiro-Hamada-Armor-Designer-LQ-Lorcana-Player.jpg"
+		uuid="ARI-096"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Yokai - Intellectual Schemer</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/97-204-EN-7-Yokai-Intellectual-Schemer-Lorcana-Player.jpg"
+		uuid="ARI-097"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Donald Duck - Lively Pirate</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/98-204-EN-7-Donald-Duck-Lively-Pirate-LQ-Lorcana-Player.jpg"
+		uuid="ARI-098"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Berlioz - Mischevious Kitten</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/99-204-EN-7-Berlioz-Mischevious-Kitten-Lorcana-Player.jpg"
+		uuid="ARI-099"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Lady - Elegant Spaniel</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/100-204-EN-7-Lady-Elegant-Spaniel-Lorcana-Player.jpg"
+		uuid="ARI-100"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Yzma - Exasperated Schemer</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/101-204-EN-7-Yzma-Exasperated-Schemer-LQ-Lorcana-Player.jpg"
+		uuid="ARI-101"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Pacha - Trekmate</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/102-204-EN-7-Pacha-Trekmate-LQ-Lorcana-Player.jpg"
+		uuid="ARI-102"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Tweedle Dee &amp; Tweedle Dum - Strange Storytellers</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/103-204-EN-7-Tweedle-Dee-Tweedle-Dum-Strange-Storytellers-LQ-Lorcana-Player.jpg"
+		uuid="ARI-103"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Baymax - Giant Robot</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/104-204-EN-7-Baymax-Giant-Robot-LQ-Lorcana-Player.jpg"
+		uuid="ARI-104"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Gizmoduck - Suited Up</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/105-204-EN-7-Gizmoduck-Suited-Up-LQ-Lorcana-Player.jpg"
+		uuid="ARI-105"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Fidget - Sneaky Bat</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/106-204-EN-7-Fidget-Sneaky-Bat-LQ-Lorcana-Player.jpg"
+		uuid="ARI-106"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Mr. Smee - Efficient Captain</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/107-204-EN-7-Mr.-Smee-Efficient-Captain-Lorcana-Player.jpg"
+		uuid="ARI-107"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Daisy Duck - Multitalented Pirate</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/108-204-EN-7-Daisy-Duck-Multitalented-Pirate-LQ-Lorcana-Player.jpg"
+		uuid="ARI-108"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>John Silver - Vengeful Pirate</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/109-204-EN-7-John-Silver-Vengeful-Pirate-LQ-Lorcana-Player.jpg"
+		uuid="ARI-109"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Tramp - Enterprising Dog</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/110-204-EN-7-Tramp-Enterprising-Dog-Lorcana-Player.jpg"
+		uuid="ARI-110"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>King of Hearts - Picky Ruler</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/111-204-EN-7-King-of-Hearts-Picky-Ruler-LQ-Lorcana-Player.jpg"
+		uuid="ARI-111"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Duchess - Elegant Feline</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/112-204-EN-7-Duchess-Elegant-Feline-Lorcana-Player.jpg"
+		uuid="ARI-112"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Anastasia - Bossy Stepsister</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/113-204-EN-7-Anastasia-Bossy-Stepsister-LQ-Lorcana-Player.jpg"
+		uuid="ARI-113"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Pete - Space Pirate</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/114-204-EN-7-Pete-Space-Pirate-LQ-Lorcana-Player.jpg"
+		uuid="ARI-114"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Lady Tremaine - Bitterly Jealoous</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/115-204-EN-7-Lady-Tremaine-Bitterly-Jealoous-LQ-Lorcana-Player.jpg"
+		uuid="ARI-115"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Wake Up Alice</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/116-204-EN-7-Wake-Up-Alice-LQ-Lorcana-Player.jpg"
+		uuid="ARI-116"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>He's A Tramp</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/117-204-EN-7-Hes-A-Tramp-Lorcana-Player.jpg"
+		uuid="ARI-117"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>The Return of Hercules</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/118-204-EN-7-The-Return-of-Hercules-LQ-Lorcana-Player.jpg"
+		uuid="ARI-118"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Ink Geyser</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/119-204-EN-7-Ink-Geyser-Lorcana-Player.jpg"
+		uuid="ARI-119"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Emerald Coil</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/120-204-EN-7-Emerald-Coil-LQ-Lorcana-Player.jpg"
+		uuid="ARI-120"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Grandmother Fa - Spirited Elder</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/121-204-EN-7-Grandmother-Fa-Spirited-Elder-LQ-Lorcana-Player.jpg"
+		uuid="ARI-121"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Queen of Hearts - Losing Her Temper</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/122-204-EN-7-Queen-of-Hearts-Losing-Her-Temper-LQ-Lorcana-Player.jpg"
+		uuid="ARI-122"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>The Matchmaker - Unforgiving Expert</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/123-204-EN-7-The-Matchmaker-Unforgiving-Expert-LQ-Lorcana-Player.jpg"
+		uuid="ARI-123"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Denahi - Impatient Hunter</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/124-204-EN-7-Denahi-Impatient-Hunter-Lorcana-Player.jpg"
+		uuid="ARI-124"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Stabbington Brother - Without a Patch</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/125-204-EN-7-Stabbington-Brother-Without-a-Patch-LQ-Lorcana-Player.jpg"
+		uuid="ARI-125"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Belle - Mechanic Extraordinaire</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/01/126-204-EN-7-Belle-Mechanic-Extraordinaire-LQ-Lorcana-Player.jpg"
+		uuid="ARI-126"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Cy-Bug - Invasive Enemy</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/127-204-EN-7-Cy-Bug-Invasive-Enemy-LQ-Lorcana-Player.jpg"
+		uuid="ARI-127"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Stabbington - Brother With a Patch</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/128-204-EN-7-Stabbington-Brother-With-a-Patch-LQ-Lorcana-Player.jpg"
+		uuid="ARI-128"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Card Soldiers - Royal Troops</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/129-204-EN-7-Card-Soldiers-Royal-Troops-LQ-Lorcana-Player.jpg"
+		uuid="ARI-129"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Cogsworth - Climbing Clock</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/130-204-EN-7-Cogsworth-Climbing-Clock-LQ-Lorcana-Player.jpg"
+		uuid="ARI-130"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Toby - Dogged Companion</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/131-204-EN-7-Toby-Dogged-Companion-LQ-Lorcana-Player.jpg"
+		uuid="ARI-131"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Beagle Boys - Small Time Crooks</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/132-204-EN-7-Beagle-Boys-Small-Time-Crooks-LQ-Lorcana-Player-1.jpg"
+		uuid="ARI-132"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Li Shang - Newly Promoted</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/133-204-EN-7-Li-Shang-Newly-Promoted-LQ-Lorcana-Player.jpg"
+		uuid="ARI-133"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Moana - Island Explorer</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/134-204-EN-7-Moana-Island-Explorer-LQ-Lorcana-Player.jpg"
+		uuid="ARI-134"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>The Phantom Blot - Shadowy Figure</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/135-205-EN-7-The-Phantom-Blot-Shadowy-Figure-LQ-Lorcana-Player.jpg"
+		uuid="ARI-135"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Beast - Frustrated Designer</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/01/136-204-EN-7-Beast-Frustrated-Designer-Lorcana-Player.jpg"
+		uuid="ARI-136"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Mushu - Majestic Dragon</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/137-204-EN-7-Mushu-Majestic-Dragon-LQ-Lorcana-Player.jpg"
+		uuid="ARI-137"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Maurice - Unconventional Inventor</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/138-204-EN-7-Maurice-Unconventional-Inventor-LQ-Lorcana-Player.jpg"
+		uuid="ARI-138"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Goofy - Extreme Athlete</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/139-204-E-7-Goofy-Extreme-Athlete-LQ-Lorcana-Player.jpg"
+		uuid="ARI-139"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Lyle Tiberius Rourke - Crystallized Mercenary</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/140-204-EN-7-Lyle-Tiberius-Rourke-Crystallized-Mercenary-LQ-Lorcana-Player.jpg"
+		uuid="ARI-140"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Mulan - Imperial General</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/141-204-EN-7-Mulan-Imperial-General-LQ-Lorcana-Player.jpg"
+		uuid="ARI-141"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Baloo - Ol' Iron Paws</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/142-204-EN-7-Baloo-Ol-Iron-Paws-LQ-Lorcana-Player.jpg"
+		uuid="ARI-142"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Ratigan - Nefarious Criminal</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/143-204-EN-7-Ratigan-Nefarious-Criminal-LQ-Lorcana-Player.jpg"
+		uuid="ARI-143"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Sir Kay - Unruly Knight</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/144-204-EN-7-Sir-Kay-Unruly-Knight-LQ-Lorcana-Player.jpg"
+		uuid="ARI-144"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Milo Thatch - Undaunted Scholar</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/145-204-EN-7-Milo-Thatch-Undaunted-Scholar-LQ-Lorcana-Player.jpg"
+		uuid="ARI-145"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Edgar Balthazar - Ambitious Butler</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/146-204-EN-7-Edgar-Balthazar-Ambitious-Butler-Lorcana-Player.jpg"
+		uuid="ARI-146"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>We've Got Company</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/147-204-EN-7-Weve-Got-Company-LQ-Lorcana-Player.jpg"
+		uuid="ARI-147"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Out of Order</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/148-204-EN-7-Out-of-Order-LQ-Lorcana-Player.jpg"
+		uuid="ARI-148"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Ruby Coil</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/149-204-EN-7-Ruby-Coil-LQ-Lorcana-Player-1.jpg"
+		uuid="ARI-149"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Unconventional Tool</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/150-204-EN-7-Unconventional-Tool-LQ-Lorcana-Player.jpg"
+		uuid="ARI-150"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Maurices Machine</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/151-204-EN-7-Maurices-Machine-LQ-Lorcana-Player.jpg"
+		uuid="ARI-151"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Devil's Eye Diamond</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/152-204-EN-7-Devils-Eye-Diamond-LQ-Lorcana-Player.jpg"
+		uuid="ARI-152"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Clarabelle - News Reporter</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/153-204-EN-7-Clarabelle-News-Reporter-LQ-Lorcana-Player.jpg"
+		uuid="ARI-153"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Scrooge McDuck - Resourceful Miser</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/154-204-EN-7-Scrooge-McDuck-Resourceful-Miser-LQ-Lorcana-Player.jpg"
+		uuid="ARI-154"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Mattias Arendelle - General</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/155-204-EN-7-Mattias-Arendelle-General-LQ-Lorcana-Player.jpg"
+		uuid="ARI-155"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Moana - Adventurer of Land and Sea</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2024/12/156-204-EN-7-Moana-Adventurer-of-Land-and-Sea-LQ-Lorcana-Player.jpg"
+		uuid="ARI-156"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Monsieur D'Arque - Despicable Proprietor</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/157-204-EN-7-Monsieur-DArque-Despicable-Proprietor-LQ-Lorcana-Player.jpg"
+		uuid="ARI-157"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Gaetan Moliere - The Mole</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/158-204-EN-7-Gaetan-Moliere-The-Mole-LQ-Lorcana-Player.jpg"
+		uuid="ARI-158"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Belle - Apprentice Inventor</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/159-204-EN-7-Belle-Apprentice-Inventor-LQ-Lorcana-Player.jpg"
+		uuid="ARI-159"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Lucky - Runt of the Litter</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/160-204-EN-7-Lucky-Runt-of-the-Litter-LQ-Lorcana-Player.jpg"
+		uuid="ARI-160"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Dawson - Puzzling Sleuth</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/161-204-EN-7-Dawson-Puzzling-Sleuth-LQ-Lorcana-Player.jpg"
+		uuid="ARI-161"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Tamatoa - Happy as a Clam</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/162-204-EN-7-Tamatoa-Happy-as-a-Clam-LQ-Lorcana-Player.jpg"
+		uuid="ARI-162"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>HeiHei - Expanded Consciousness</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/163-204-EN-7-HeiHei-Expanded-Consciousness-LQ-Lorcana-Player.jpg"
+		uuid="ARI-163"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Kida - Creative Thinker French</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/164-204-FR-7-Kida-Creative-Thinker-French-LQ-Lorcana-Player.jpg"
+		uuid="ARI-164"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Toulouse - Artistic Kitten</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/165-204-EN-7-Toulouse-Artistic-Kitten-Lorcana-Player.jpg"
+		uuid="ARI-165"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Marie - Favored Kitten</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/166-204-EN-7-Marie-Favored-Kitten-Lorcana-Player.jpg"
+		uuid="ARI-166"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Pepper - Quick Thinking Puppy</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/167-204-EN-1-Pepper-Quick-Thinking-Puppy-LQ-Lorcana-Player.jpg"
+		uuid="ARI-167"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Freckles - Good Boy</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/168-204-EN-7-Freckles-Good-Boy-LQ-Lorcana-Player.jpg"
+		uuid="ARI-168"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Honey Lemon - Chemistry Wiz</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/169-204-EN-7-Honey-Lemon-Chemistry-Wiz-LQ-Lorcana-Player.jpg"
+		uuid="ARI-169"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Robin Hood - Eye for Detail</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/170-204-EN-7-Robin-Hood-Eye-for-Detail-LQ-Lorcana-Player.jpg"
+		uuid="ARI-170"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Penny The Orphan - Clever Child</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/171-204-EN-7-Penny-The-Orphan-Clever-Child-LQ-Lorcana-Player.jpg"
+		uuid="ARI-171"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Lady Kluck - Protective Confidant</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/172-204-EN-7-Lady-Kluck-Protective-Confidant-Lorcana-Player.jpg"
+		uuid="ARI-172"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Jasmine - Inspired Researcher</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/173-204-EN-7-Jasmine-Inspired-Researcher-LQ-Lorcana-Player.jpg"
+		uuid="ARI-173"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Jebidiah Farnsworth - Expedition Cook</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/174-204-EN-7-Jebidiah-Farnsworth-Expedition-Cook-LQ-Lorcana-Player.jpg"
+		uuid="ARI-174"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Baymax - Upgraded Robot</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/175-204-EN-7-Baymax-Upgraded-Robot-LQ-Lorcana-Player.jpg"
+		uuid="ARI-175"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Maid Marian - Badminton Ace</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/176-204-EN-7-Maid-Marian-Badminton-Ace-LQ-Lorcana-Player.jpg"
+		uuid="ARI-176"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Water Has Memory</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/177-204-EN-7-Water-Has-Memory-LQ-Lorcana-Player.jpg"
+		uuid="ARI-177"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>All Is Found</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/178-204-EN-7-All-Is-Found-LQ-Lorcana-Player.jpg"
+		uuid="ARI-178"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Sapphire Coil</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/179-204-EN-7-Sapphire-Coil-LQ-Lorcana-Player.jpg"
+		uuid="ARI-179"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Baymax's Charging Station</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/180-204-EN-7-Baymaxs-Charging-Station-LQ-Lorcana-Player.jpg"
+		uuid="ARI-180"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Dr. Calico - Green Eyed Man</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/181-204-EN-7-Dr.-Calico-Green-Eyed-Man-Lorcana-Player.jpg"
+		uuid="ARI-181"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Akela - Wolf Pack Elder</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/182-204-EN-7-Akela-Wolf-Pack-Elder-LQ-Lorcana-Player.jpg"
+		uuid="ARI-182"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Helga Sinclair - Tough as Nails</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/183-204-EN-7-Helga-Sinclair-Tough-as-Nails-LQ-Lorcana-Player.jpg"
+		uuid="ARI-183"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Bolt - Headstrong Dog</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/184-204-EN-7-Bolt-Headstrong-Dog-Lorcana-Player.jpg"
+		uuid="ARI-184"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>HeiHei - Rambling Rooster</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/185-204-EN-7-HeiHei-Rambling-Rooster-LQ-Lorcana-Player.jpg"
+		uuid="ARI-185"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Raya - Guidance Seeker</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/186-204-EN-7-Raya-Guidance-Seeker-LQ-Lorcana-Player.jpg"
+		uuid="ARI-186"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Tuk Tuk - Disarmingly Cute</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/187-204-EN-7-Tuk-Tuk-Disarmingly-Cute-LQ-Lorcana-Player.jpg"
+		uuid="ARI-187"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Fa Zhou - War Hero</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/188-204-EN-7-Fa-Zhou-War-Hero-LQ-Lorcana-Player.jpg"
+		uuid="ARI-188"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Razoul - Menacing Guard</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/189-204-EN-7-Razoul-Menacing-Guard-LQ-Lorcana-Player.jpg"
+		uuid="ARI-189"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Jafar - Aspiring Ruler</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/190-204-EN-7-Jafar-Aspiring-Ruler-Lorcana-Player.jpg"
+		uuid="ARI-190"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Tick Tock - Relentless Crocodile</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/191-204-EN-7-Tick-Tock-Relentless-Crocodile-LQ-Lorcana-Player.jpg"
+		uuid="ARI-191"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Kakamora - Band of Pirates</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/192-204-EN-7-Kakamora-Band-of-Pirates-LQ-Lorcana-Player.jpg"
+		uuid="ARI-192"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Mulan - Disguised Soldier</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/193-204-EN-7-Mulan-Disguised-Soldier-LQ-Lorcana-Player.jpg"
+		uuid="ARI-193"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Orville - Albatross Air</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/194-204-EN-7-Orville-Albatross-Air-LQ-Lorcana-Player.jpg"
+		uuid="ARI-194"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Miss Bianca - Unwavering Agent</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/195-204-EN-7-Miss-Bianca-Unwavering-Agent-LQ-Lorcana-Player.jpg"
+		uuid="ARI-195"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Mufasa - Respected King</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/196-204-EN-7-Mufasa-Respected-King-LQ-Lorcana-Player.jpg"
+		uuid="ARI-196"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Aladdin - Research Assistant</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/197-204-EN-7-Aladdin-Research-Assistant-LQ-Lorcana-Player.jpg"
+		uuid="ARI-197"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Bagheera - Guardian Jaguar</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/198-204-EN-7-Bagheera-Guardian-Jaguar-LQ-Lorcana-Player.jpg"
+		uuid="ARI-198"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Gantu - Experienced Enforcer</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/199-204-EN-7-Gantu-Experienced-Enforcer-LQ-Lorcana-Player.jpg"
+		uuid="ARI-199"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Mickey Mouse - Inspirational Warrior</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/200-204-EN-7-Mickey-Mouse-Inspirational-Warrior-LQ-Lorcana-Player.jpg"
+		uuid="ARI-200"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Restoring Atlantis</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/201-204-EN-7-Restoring-Atlantis-LQ-Lorcana-Player.jpg"
+		uuid="ARI-201"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Double Trouble</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/202-204-EN-7-Double-Trouble-LQ-Lorcana-Player.jpg"
+		uuid="ARI-202"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Steel Coil</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/203-204-EN-7-Steel-Coil-LQ-Lorcana-Player.jpg"
+		uuid="ARI-203"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+<card>
+	<name>Training Staff</name>
+	<set
+		picurl="https://lorcanaplayer.com/wp-content/uploads/2025/02/202-204-EN-7-Training-Staff-LQ-Lorcana-Player.jpg"
+		uuid="ARI-204"
+	>ARI</set>
+	<tablerow>2</tablerow>
+</card>
+</cards>
+</cockatrice_carddatabase>
